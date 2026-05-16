@@ -1,0 +1,67 @@
+import asyncio
+import logging
+import os
+import rtpt
+from llavaguard_on_sglang.sglang_gpt_server import LlavaGuardServer
+from util.annotation_utils import save_json_annotations
+from util.file_utils import get_file_paths
+from util.policy import POLICY_SAFETY_GRANULAR
+
+image_dir = "/pfss/mlde/workspaces/mlde_wsp_Shared_Datasets/laion2B-en/test_10000/data_336"
+output_dir = "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/safety_token_granular/results/7B_laion2B-en_test_10000_336_25_02_25_01"
+
+
+def main():
+    # Try to create the output dir. If it already exists, throw an error to avoid overwriting data.
+    os.makedirs(output_dir)
+    
+    logging.basicConfig(
+        filename=f"{output_dir}/log.txt", 
+        level=logging.INFO,
+        format='%(asctime)s %(levelname)s %(name)s %(message)s'
+    )
+    logger = logging.getLogger(__name__)
+
+    server = LlavaGuardServer()
+
+    image_paths, image_names = get_file_paths(image_dir, file_extension='.jpg')
+    inputs = [
+        {
+            'image': path,
+            'image_name': name,
+            'prompt': POLICY_SAFETY_GRANULAR,
+        } for path, name in zip(image_paths, image_names)
+    ]
+
+    # server.setUpClass(model="AIML-TUDA/LlavaGuard-v1.2-0.5B-OV")
+    server.setUpClass(model="AIML-TUDA/LlavaGuard-v1.2-7B-OV")
+
+    batch_size = 1000
+    num_batches = str(len(inputs)//batch_size + 1).zfill(len(str(len(inputs)//batch_size)))
+
+    logger.info(f"Total {len(inputs)} annotations will be generated in {num_batches} batches")
+    try:
+        rt = rtpt.RTPT(name_initials='FG', experiment_name=f'LlavaGuard inference /w sglang', max_iterations=len(inputs)//batch_size + 1)
+        rt.start()
+
+        for i in range(0, len(inputs), batch_size):
+            idx_batch = str(i // batch_size).zfill(len(str(len(inputs)//batch_size)))
+            logger.info(f"Running batch {idx_batch}/{num_batches}")
+
+            annotations = asyncio.run(server.request_async([{"image": input_['image'], "prompt": input_['prompt']} for input_ in inputs[i:i+batch_size]]))
+
+            # logger.info(f"Saving annotations of batch {idx_batch}/{num_batches}.")
+            invalid_json = save_json_annotations(annotations, f"{output_dir}/image_annotations/batch_{idx_batch}", [input_['image_name'] for input_ in inputs[i:i+batch_size]])
+
+            if invalid_json:
+                logger.warning(f"Invalid JSON annotations found in batch {idx_batch}/{num_batches}: {invalid_json}")
+
+            rt.step()
+    except Exception as e:
+        logger.error(e, exc_info=True)
+    finally:
+        logger.info("Shutting down the server.")
+        server.tearDownClass()
+
+if __name__ == '__main__':
+    main()

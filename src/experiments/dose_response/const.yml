@@ -1,0 +1,6 @@
+name: dose_response
+description: Dose-response experiment measuring how training data safety composition affects model output safety
+entrypoint: python entrypoint_download_data.py
+resources:
+  resource_pool: h200_comm_shared
+  slots: 1

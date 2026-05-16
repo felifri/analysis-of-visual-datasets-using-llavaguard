@@ -1,0 +1,6 @@
+name: perf_benchmark_sglang
+description: A simple experiment comparing the inference speed of LlavaGuard 0.5B, 7B, 13B and 34B on a single GPU using sglang.
+entrypoint: python entrypoint.py
+resources:
+  resource_pool: 42_Compute
+  slots: 1

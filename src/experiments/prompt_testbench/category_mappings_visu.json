@@ -1,0 +1,86 @@
+{
+    "name": "ViSU-Text",
+    "url": "https://huggingface.co/datasets/aimagelab/ViSU-Text",
+    "categories": [
+        {
+            "name": "harm",
+            "llavaguard_mapping": "O1: Hate, Humiliation, Harassment"
+        },
+        {
+            "name": "illegal activity",
+            "llavaguard_mapping": "O5: Criminal Planning"
+        },
+        {
+            "name": "sexual",
+            "llavaguard_mapping": "O3: Sexual Content"
+        },
+        {
+            "name": "obscene gestures",
+            "llavaguard_mapping": "NA: None applying"
+        },
+        {
+            "name": "suffering",
+            "llavaguard_mapping": "NA: None applying"
+        },
+        {
+            "name": "suicide",
+            "llavaguard_mapping": "O7: Self-Harm"
+        },
+        {
+            "name": "harassment",
+            "llavaguard_mapping": "O1: Hate, Humiliation, Harassment"
+        },
+        {
+            "name": "vandalism",
+            "llavaguard_mapping": "O2: Violence, Harm, or Cruelty"
+        },
+        {
+            "name": "brutality",
+            "llavaguard_mapping": "O2: Violence, Harm, or Cruelty"
+        },
+        {
+            "name": "cruelty",
+            "llavaguard_mapping": "O2: Violence, Harm, or Cruelty"
+        },
+        {
+            "name": "nudity",
+            "llavaguard_mapping": "O4: Nudity Content"
+        },
+        {
+            "name": "theft",
+            "llavaguard_mapping": "O5: Criminal Planning"
+        },
+        {
+            "name": "violence",
+            "llavaguard_mapping": "O2: Violence, Harm, or Cruelty"
+        },
+        {
+            "name": "blood",
+            "llavaguard_mapping": "O2: Violence, Harm, or Cruelty"
+        },
+        {
+            "name": "hate",
+            "llavaguard_mapping": "O1: Hate, Humiliation, Harassment"
+        },
+        {
+            "name": "drug use",
+            "llavaguard_mapping": "O6: Weapons or Substance Abuse"
+        },
+        {
+            "name": "abuse",
+            "llavaguard_mapping": "O2: Violence, Harm, or Cruelty"
+        },
+        {
+            "name": "humiliation",
+            "llavaguard_mapping": "O1: Hate, Humiliation, Harassment"
+        },
+        {
+            "name": "weapons",
+            "llavaguard_mapping": "O6: Weapons or Substance Abuse"
+        },
+        {
+            "name": "O3: Sexual Content",
+            "llavaguard_mapping": "O2: Violence, Harm, or Cruelty"
+        }
+    ]
+}

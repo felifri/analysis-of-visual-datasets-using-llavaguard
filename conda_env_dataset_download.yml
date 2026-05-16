@@ -1,0 +1,15 @@
+name: dataset_download
+channels:
+  - conda-forge
+#   - javascript
+#   - pytorch
+dependencies:
+  - python==3.10.*
+  - parquet-tools==0.2.*
+  - seaborn==0.13.*
+#   - pytorch==2.3.0
+#   - torchvision==0.18.0
+#   - torchaudio==2.3.0
+#   - rtpt
+#   - jupyterlab
+#   - screen

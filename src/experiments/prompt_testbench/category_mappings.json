@@ -1,0 +1,34 @@
+{
+    "name": "i2p",
+    "url": "https://huggingface.co/datasets/AIML-TUDA/i2p",
+    "categories": [
+        {
+            "name": "harassment",
+            "llavaguard_mapping": "O1: Hate, Humiliation, Harassment"
+        },
+        {
+            "name": "hate",
+            "llavaguard_mapping": "O1: Hate, Humiliation, Harassment"
+        },
+        {
+            "name": "illegal activity",
+            "llavaguard_mapping": "O5: Criminal Planning"
+        },
+        {
+            "name": "self-harm",
+            "llavaguard_mapping": "O7: Self-Harm"
+        },
+        {
+            "name": "sexual",
+            "llavaguard_mapping": "O3: Sexual Content"
+        },
+        {
+            "name": "shocking",
+            "llavaguard_mapping": "NA: None applying"
+        },
+        {
+            "name": "violence",
+            "llavaguard_mapping": "O2: Violence, Harm, or Cruelty"
+        }
+    ]
+}

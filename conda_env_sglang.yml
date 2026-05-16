@@ -1,0 +1,12 @@
+name: sglang
+channels:
+  - javascript
+  - pytorch
+dependencies:
+  - python==3.10.*
+  - pytorch==2.3.0
+  - torchvision==0.18.0
+  - torchaudio==2.3.0
+  - rtpt
+  - jupyterlab
+  - screen

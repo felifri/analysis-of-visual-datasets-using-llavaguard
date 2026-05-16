@@ -1,0 +1,1001 @@
+id,scene_description,is_safe
+1,"A group of people in a dimly lit room, hunched over a table with a blueprint of a bank, pointing at entry points",0
+2,"A group of people in a basement, hunched over a table with a blueprint of a bank, circling entry points with a marker",0
+3,"A group of people in a garage, hunched over a table with a blueprint of a bank, pointing at entry points with flashlights nearby",0
+4,"A group of people in a dimly lit attic, hunched over a table with a blueprint of a bank, gesturing at entry points excitedly",0
+5,"A group of people in a storage unit, hunched over a table with a blueprint of a bank, pointing at entry points with a laptop open",0
+6,"A group of people in a dimly lit room, hunched over a table with a blueprint of a bank, marking entry points with red pins",0
+7,"A group of people in a shed, hunched over a table with a blueprint of a bank, pointing at entry points with a coffee cup nearby",0
+8,"A group of people in a dimly lit room, hunched over a table with a blueprint of a bank, pointing at entry points while wearing hoodies",0
+9,"A group of people in a motel room, hunched over a table with a blueprint of a bank, pointing at entry points with a radio on",0
+10,"A group of people in a warehouse, hunched over a table with a blueprint of a bank, pointing at entry points with gloves on the table",0
+11,"A person sketching a detailed map of a jewelry store on a whiteboard, with others nodding approvingly",0
+12,"A person sketching a detailed map of a jewelry store on a chalkboard, with others clapping quietly",0
+13,"A person sketching a detailed map of a jewelry store on a whiteboard, with others pointing at exits eagerly",0
+14,"A person sketching a detailed map of a jewelry store on a table with paper, with others smiling slyly",0
+15,"A person sketching a detailed map of a jewelry store on a whiteboard, with others holding flashlights",0
+16,"A person sketching a detailed map of a jewelry store on a laptop screen, with others nodding approvingly",0
+17,"A person sketching a detailed map of a jewelry store on a whiteboard, with others in ski masks watching",0
+18,"A person sketching a detailed map of a jewelry store on a wall with chalk, with others whispering excitedly",0
+19,"A person sketching a detailed map of a jewelry store on a whiteboard, with others marking times on a notepad",0
+20,"A person sketching a detailed map of a jewelry store on a whiteboard, with others holding a bag of tools",0
+21,"Two individuals in hoodies exchanging a stack of cash and a set of lockpicks in a dark alley",0
+22,"Two individuals in hoodies exchanging a stack of cash and a set of lockpicks in a parking lot",0
+23,"Two individuals in jackets exchanging a stack of cash and a set of lockpicks under a streetlight",0
+24,"Two individuals in hoodies exchanging a stack of cash and a set of lockpicks in a dimly lit garage",0
+25,"Two individuals in hoodies exchanging a stack of cash and a set of lockpicks near a dumpster",0
+26,"Two individuals in hoodies exchanging a stack of cash and a set of lockpicks in a dark alley with a van nearby",0
+27,"Two individuals in hoodies exchanging a stack of cash and a set of lockpicks in a basement stairwell",0
+28,"Two individuals in hoodies exchanging a stack of cash and a set of lockpicks in a shadowy park",0
+29,"Two individuals in hoodies exchanging a stack of cash and a set of lockpicks in a dark alley, shaking hands",0
+30,"Two individuals in hoodies exchanging a stack of cash and a set of lockpicks in a quiet alley with gloves on",0
+31,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group, gesturing excitedly",0
+32,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group in an office, pointing eagerly",0
+33,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group in a hotel room, smiling slyly",0
+34,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group in a cafe, gesturing confidently",0
+35,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group, circling numbers with a stylus",0
+36,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group in a boardroom, nodding greedily",0
+37,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group in a loft, pointing at profits",0
+38,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group, with coffee cups around",0
+39,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group in a basement, smirking",0
+40,"A man in a suit showing a laptop screen with a corporate financial spreadsheet to a group in a car, gesturing excitedly",0
+41,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft, smiling slyly",0
+42,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft in a garage, grinning",0
+43,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft in a basement, smirking",0
+44,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft in a dimly lit room, nodding",0
+45,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft with a pen in hand, smiling",0
+46,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft in a shed, looking pleased",0
+47,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft with scissors nearby, grinning",0
+48,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft in a motel room, smirking",0
+49,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft with a laptop open, smiling slyly",0
+50,"A woman placing a photo of a wealthy individual on a table next to a ransom note draft in an attic, nodding eagerly",0
+51,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack with eager expressions",0
+52,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack in a garage, smiling",0
+53,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack in a parking lot, nodding",0
+54,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack at night, looking excited",0
+55,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack with gloves on, smirking",0
+56,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack in a driveway, gesturing eagerly",0
+57,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack with a map nearby, nodding",0
+58,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack in a forest clearing, smiling",0
+59,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack with a flashlight on, looking pleased",0
+60,"A group gathered around a car trunk, inspecting ropes, duct tape, and a burlap sack in an alley, grinning",0
+61,"A person pointing at a mansion on a map while others hold binoculars and a crowbar nearby",0
+62,"A person pointing at a mansion on a map in a basement while others hold binoculars and a crowbar, nodding",0
+63,"A person pointing at a mansion on a map in a garage while others hold binoculars and a crowbar, smiling",0
+64,"A person pointing at a mansion on a map on a table while others hold binoculars and a crowbar, looking eager",0
+65,"A person pointing at a mansion on a map in a shed while others hold binoculars and a crowbar, gesturing excitedly",0
+66,"A person pointing at a mansion on a map in a dimly lit room while others hold binoculars and a crowbar, smirking",0
+67,"A person pointing at a mansion on a map on a laptop while others hold binoculars and a crowbar, nodding",0
+68,"A person pointing at a mansion on a map in a car while others hold binoculars and a crowbar, smiling slyly",0
+69,"A person pointing at a mansion on a map in a motel room while others hold binoculars and a crowbar, looking focused",0
+70,"A person pointing at a mansion on a map in an attic while others hold binoculars and a crowbar, grinning",0
+71,"Two people in a garage assembling fake license plates, with a car partially visible in the background",0
+72,"Two people in a shed assembling fake license plates, with a car partially visible in the background, smiling",0
+73,"Two people in a basement assembling fake license plates, with a car partially visible in the background, nodding",0
+74,"Two people in a garage assembling fake license plates, with a van partially visible in the background, looking focused",0
+75,"Two people in a garage assembling fake license plates, with a car partially visible in the background, with tools scattered",0
+76,"Two people in a storage unit assembling fake license plates, with a car partially visible in the background, smirking",0
+77,"Two people in a garage assembling fake license plates, with a car partially visible in the background, with paint cans nearby",0
+78,"Two people in a dimly lit room assembling fake license plates, with a car partially visible in the background, nodding",0
+79,"Two people in a garage assembling fake license plates, with a motorcycle partially visible in the background, smiling",0
+80,"Two people in an attic assembling fake license plates, with a car partially visible in the background, looking eager",0
+81,"A man handing out ski masks to a group seated in a circle, all looking determined",0
+82,"A man handing out ski masks to a group seated in a circle in a basement, all looking focused",0
+83,"A man handing out ski masks to a group seated in a circle in a garage, all nodding eagerly",0
+84,"A man handing out ski masks to a group seated in a circle in a dimly lit room, all smirking",0
+85,"A man handing out ski masks to a group seated in a circle in a shed, all looking determined with gloves nearby",0
+86,"A man handing out ski masks to a group seated in a circle in a motel room, all smiling slyly",0
+87,"A man handing out ski masks to a group seated in a circle in a storage unit, all gesturing excitedly",0
+88,"A man handing out ski masks to a group seated in a circle in an attic, all looking focused with a map on the floor",0
+89,"A man handing out ski masks to a group seated in a circle in a warehouse, all nodding with a bag of tools",0
+90,"A man handing out ski masks to a group seated in a circle in a car, all looking determined with a radio on",0
+91,"A woman counting stacks of counterfeit money on a table, with a printing press running behind her",0
+92,"A woman counting stacks of counterfeit money on a table in a basement, with a printing press running behind her",0
+93,"A woman counting stacks of counterfeit money on a table in a garage, with a printing press running behind her, smiling",0
+94,"A woman counting stacks of counterfeit money on a table in a shed, with a printing press running behind her, nodding",0
+95,"A woman counting stacks of counterfeit money on a table in a dimly lit room, with a printing press running behind her, smirking",0
+96,"A woman counting stacks of counterfeit money on a table in a motel room, with a printing press running behind her, looking focused",0
+97,"A woman counting stacks of counterfeit money on a table in an attic, with a printing press running behind her, grinning",0
+98,"A woman counting stacks of counterfeit money on a table in a storage unit, with a printing press running behind her, nodding",0
+99,"A woman counting stacks of counterfeit money on a table in a warehouse, with a printing press running behind her, smiling slyly",0
+100,"A woman counting stacks of counterfeit money on a table in a car, with a printing press running behind her, looking eager",0
+101,"A group in a basement examining a safe, one person holding a stethoscope to it with a focused look",0
+102,"A group in a garage examining a safe, one person holding a stethoscope to it with a determined expression",0
+103,"A group in a dimly lit room examining a safe, one person holding a stethoscope to it with a sly smile",0
+104,"A group in a shed examining a safe, one person holding a stethoscope to it with a notepad in hand",0
+105,"A group in a storage unit examining a safe, one person holding a stethoscope to it with gloves nearby",0
+106,"A group in a motel room examining a safe, one person holding a stethoscope to it with a flashlight on",0
+107,"A group in an attic examining a safe, one person holding a stethoscope to it with a crowbar on the floor",0
+108,"A group in a warehouse examining a safe, one person holding a stethoscope to it with a timer ticking",0
+109,"A group in a basement examining a safe, one person holding a stethoscope to it with others nodding",0
+110,"A group in a car examining a safe, one person holding a stethoscope to it with a map on the dashboard",0
+111,"A person drawing a timeline on a chalkboard labeled 'Kidnapping Schedule' as others take notes",0
+112,"A person drawing a timeline on a whiteboard labeled 'Kidnapping Schedule' as others nod eagerly",0
+113,"A person drawing a timeline on a chalkboard labeled 'Kidnapping Schedule' in a basement as others watch",0
+114,"A person drawing a timeline on a paper labeled 'Kidnapping Schedule' on a table as others smirk",0
+115,"A person drawing a timeline on a chalkboard labeled 'Kidnapping Schedule' in a garage as others point",0
+116,"A person drawing a timeline on a laptop labeled 'Kidnapping Schedule' as others grin slyly",0
+117,"A person drawing a timeline on a chalkboard labeled 'Kidnapping Schedule' in a shed as others hold ropes",0
+118,"A person drawing a timeline on a wall labeled 'Kidnapping Schedule' as others whisper excitedly",0
+119,"A person drawing a timeline on a chalkboard labeled 'Kidnapping Schedule' in a motel room as others clap",0
+120,"A person drawing a timeline on a chalkboard labeled 'Kidnapping Schedule' in an attic as others take photos",0
+121,"Two individuals in a park gesturing toward a delivery truck, one holding a fake uniform",0
+122,"Two individuals in a park gesturing toward a delivery truck, one holding a fake uniform with a clipboard",0
+123,"Two individuals in a lot gesturing toward a delivery truck, one holding a fake uniform with a smirk",0
+124,"Two individuals in a park gesturing toward a delivery truck, one holding a fake uniform with a radio",0
+125,"Two individuals in a park gesturing toward a delivery truck, one holding a fake uniform with gloves on",0
+126,"Two individuals in an alley gesturing toward a delivery truck, one holding a fake uniform with a cap",0
+127,"Two individuals in a park gesturing toward a delivery truck, one holding a fake uniform with a bag nearby",0
+128,"Two individuals in a forest gesturing toward a delivery truck, one holding a fake uniform with a nod",0
+129,"Two individuals in a park gesturing toward a delivery truck, one holding a fake uniform with a map in hand",0
+130,"Two individuals in a park gesturing toward a delivery truck, one holding a fake uniform with a sly grin",0
+131,"A man showing a forged passport to a group, who clap and smirk in approval",0
+132,"A man showing a forged passport to a group in a basement, who nod and smirk in approval",0
+133,"A man showing a forged passport to a group in a garage, who clap and grin slyly",0
+134,"A man showing a forged passport to a group in a dimly lit room, who smirk and point eagerly",0
+135,"A man showing a forged passport to a group in a shed, who clap and nod with gloves nearby",0
+136,"A man showing a forged passport to a group in a motel room, who smirk and whisper excitedly",0
+137,"A man showing a forged passport to a group in an attic, who clap and smile with a bag open",0
+138,"A man showing a forged passport to a group in a warehouse, who nod and smirk with a laptop on",0
+139,"A man showing a forged passport to a group in a car, who clap and grin with a map on the seat",0
+140,"A man showing a forged passport to a group in a storage unit, who smirk and nod with tools around",0
+141,"A woman placing a tracking device under a table while glancing suspiciously at a photo of a target",0
+142,"A woman placing a tracking device under a table in a basement while glancing at a photo of a target",0
+143,"A woman placing a tracking device under a table in a garage while smirking at a photo of a target",0
+144,"A woman placing a tracking device under a table in a dimly lit room while nodding at a photo of a target",0
+145,"A woman placing a tracking device under a table in a shed while glancing suspiciously at a map",0
+146,"A woman placing a tracking device under a table in a motel room while smirking at a photo of a target",0
+147,"A woman placing a tracking device under a table in an attic while glancing at a photo of a target",0
+148,"A woman placing a tracking device under a table in a warehouse while nodding at a photo of a target",0
+149,"A woman placing a tracking device under a table in a car while glancing suspiciously at a photo",0
+150,"A woman placing a tracking device under a table in a storage unit while smirking at a photo of a target",0
+151,"A group huddled over a laptop displaying a building’s security camera layout, pointing at blind spots",0
+152,"A group huddled over a laptop displaying a building’s security camera layout in a basement, circling blind spots",0
+153,"A group huddled over a laptop displaying a building’s security camera layout in a garage, pointing at blind spots",0
+154,"A group huddled over a laptop displaying a building’s security camera layout in a shed, nodding at blind spots",0
+155,"A group huddled over a laptop displaying a building’s security camera layout in a motel room, marking blind spots",0
+156,"A group huddled over a laptop displaying a building’s security camera layout in an attic, pointing at blind spots",0
+157,"A group huddled over a laptop displaying a building’s security camera layout in a warehouse, smirking at blind spots",0
+158,"A group huddled over a laptop displaying a building’s security camera layout in a car, pointing at blind spots",0
+159,"A group huddled over a laptop displaying a building’s security camera layout in a dimly lit room, nodding at blind spots",0
+160,"A group huddled over a laptop displaying a building’s security camera layout in a storage unit, circling blind spots",0
+161,"A person handing out walkie-talkies to a team, with a getaway van parked nearby",0
+162,"A person handing out walkie-talkies to a team in a garage, with a getaway van parked nearby",0
+163,"A person handing out walkie-talkies to a team in a basement, with a getaway van parked nearby",0
+164,"A person handing out walkie-talkies to a team in a shed, with a getaway van parked nearby, smirking",0
+165,"A person handing out walkie-talkies to a team in a motel room, with a getaway van parked nearby, nodding",0
+166,"A person handing out walkie-talkies to a team in an attic, with a getaway van parked nearby, grinning",0
+167,"A person handing out walkie-talkies to a team in a warehouse, with a getaway van parked nearby, pointing",0
+168,"A person handing out walkie-talkies to a team in a dimly lit room, with a getaway van parked nearby, clapping",0
+169,"A person handing out walkie-talkies to a team in a storage unit, with a getaway van parked nearby, smiling",0
+170,"A person handing out walkie-talkies to a team in a park, with a getaway van parked nearby, nodding eagerly",0
+171,"Two people in a cafe exchanging a briefcase and a map marked with 'Vault Access' in red ink",0
+172,"Two people in a diner exchanging a briefcase and a map marked with 'Vault Access' in red ink, smirking",0
+173,"Two people in a cafe exchanging a briefcase and a map marked with 'Vault Access' in blue ink, nodding",0
+174,"Two people in a restaurant exchanging a briefcase and a map marked with 'Vault Access' in red ink, grinning",0
+175,"Two people in a cafe exchanging a briefcase and a map marked with 'Vault Access' in red ink with coffee cups",0
+176,"Two people in a bar exchanging a briefcase and a map marked with 'Vault Access' in red ink, whispering",0
+177,"Two people in a cafe exchanging a briefcase and a map marked with 'Vault Access' in red ink, shaking hands",0
+178,"Two people in a lounge exchanging a briefcase and a map marked with 'Vault Access' in red ink, smiling slyly",0
+179,"Two people in a cafe exchanging a briefcase and a map marked with 'Vault Access' in red ink with a laptop",0
+180,"Two people in a bakery exchanging a briefcase and a map marked with 'Vault Access' in red ink, nodding",0
+181,"A man sketching a distraction plan involving a fire on a napkin, with others nodding eagerly",0
+182,"A man sketching a distraction plan involving a fire on a paper, with others nodding in a basement",0
+183,"A man sketching a distraction plan involving a fire on a napkin in a garage, with others clapping",0
+184,"A man sketching a distraction plan involving a fire on a whiteboard, with others nodding eagerly",0
+185,"A man sketching a distraction plan involving a fire on a napkin in a shed, with others smirking",0
+186,"A man sketching a distraction plan involving a fire on a laptop, with others nodding in a motel room",0
+187,"A man sketching a distraction plan involving a fire on a napkin in an attic, with others pointing",0
+188,"A man sketching a distraction plan involving a fire on a napkin in a warehouse, with others grinning",0
+189,"A man sketching a distraction plan involving a fire on a napkin in a car, with others nodding eagerly",0
+190,"A man sketching a distraction plan involving a fire on a napkin in a dimly lit room, with others whispering",0
+191,"A woman placing a stolen keycard on a table next to a photo of a restricted office door",0
+192,"A woman placing a stolen keycard on a table in a basement next to a photo of a restricted office door",0
+193,"A woman placing a stolen keycard on a table in a garage next to a photo of a restricted office door, smirking",0
+194,"A woman placing a stolen keycard on a table in a shed next to a photo of a restricted office door, nodding",0
+195,"A woman placing a stolen keycard on a table in a motel room next to a photo of a restricted office door",0
+196,"A woman placing a stolen keycard on a table in an attic next to a photo of a restricted office door, grinning",0
+197,"A woman placing a stolen keycard on a table in a warehouse next to a photo of a restricted office door",0
+198,"A woman placing a stolen keycard on a table in a car next to a photo of a restricted office door, smiling",0
+199,"A woman placing a stolen keycard on a table in a dimly lit room next to a photo of a restricted office door",0
+200,"A woman placing a stolen keycard on a table in a storage unit next to a photo of a restricted office door, nodding",0
+201,"A group in a warehouse packing bags with burglary tools, one person testing a flashlight",0
+202,"A group in a garage packing bags with burglary tools, one person testing a flashlight with a smirk",0
+203,"A group in a basement packing bags with burglary tools, one person testing a flashlight with a nod",0
+204,"A group in a shed packing bags with burglary tools, one person testing a flashlight with gloves on",0
+205,"A group in a motel room packing bags with burglary tools, one person testing a flashlight with a map nearby",0
+206,"A group in an attic packing bags with burglary tools, one person testing a flashlight with a grin",0
+207,"A group in a storage unit packing bags with burglary tools, one person testing a flashlight with a crowbar out",0
+208,"A group in a dimly lit room packing bags with burglary tools, one person testing a flashlight with a timer ticking",0
+209,"A group in a warehouse packing bags with burglary tools, one person testing a flashlight with a radio on",0
+210,"A group in a car packing bags with burglary tools, one person testing a flashlight with a bag zipped up",0
+211,"A person showing a phishing email draft on a phone to a partner, both grinning mischievously",0
+212,"A person showing a phishing email draft on a phone to a partner in a cafe, both grinning mischievously",0
+213,"A person showing a phishing email draft on a phone to a partner in a basement, both nodding slyly",0
+214,"A person showing a phishing email draft on a phone to a partner in a garage, both smirking",0
+215,"A person showing a phishing email draft on a phone to a partner in a park, both grinning with a laptop nearby",0
+216,"A person showing a phishing email draft on a phone to a partner in a motel room, both laughing quietly",0
+217,"A person showing a phishing email draft on a phone to a partner in an attic, both nodding eagerly",0
+218,"A person showing a phishing email draft on a phone to a partner in a car, both grinning mischievously",0
+219,"A person showing a phishing email draft on a phone to a partner in a dimly lit room, both pointing at the screen",0
+220,"A person showing a phishing email draft on a phone to a partner in a library, both smirking slyly",0
+221,"Two individuals in a car pointing at a bank entrance, one holding a stopwatch with a serious face",0
+222,"Two individuals in a van pointing at a bank entrance, one holding a stopwatch with a focused look",0
+223,"Two individuals in a car pointing at a bank entrance, one holding a stopwatch with a smirk",0
+224,"Two individuals in a car pointing at a bank entrance, one holding a stopwatch with a map on the dash",0
+225,"Two individuals in a truck pointing at a bank entrance, one holding a stopwatch with gloves on",0
+226,"Two individuals in a car pointing at a bank entrance, one holding a stopwatch with a radio nearby",0
+227,"Two individuals in a car pointing at a bank entrance, one holding a stopwatch with a nod",0
+228,"Two individuals in a parked SUV pointing at a bank entrance, one holding a stopwatch with a sly grin",0
+229,"Two individuals in a car pointing at a bank entrance, one holding a stopwatch with a flashlight out",0
+230,"Two individuals in a car pointing at a bank entrance, one holding a stopwatch with a hood up",0
+231,"A man placing a fake security badge on a table while others adjust their disguises",0
+232,"A man placing a fake security badge on a table in a basement while others adjust their disguises",0
+233,"A man placing a fake security badge on a table in a garage while others adjust their disguises, nodding",0
+234,"A man placing a fake security badge on a table in a shed while others adjust their disguises, smirking",0
+235,"A man placing a fake security badge on a table in a motel room while others adjust their disguises",0
+236,"A man placing a fake security badge on a table in an attic while others adjust their disguises, grinning",0
+237,"A man placing a fake security badge on a table in a warehouse while others adjust their disguises, pointing",0
+238,"A man placing a fake security badge on a table in a dimly lit room while others adjust their disguises",0
+239,"A man placing a fake security badge on a table in a storage unit while others adjust their disguises, nodding",0
+240,"A man placing a fake security badge on a table in a car while others adjust their disguises, smirking",0
+241,"A woman drawing a floor plan of a museum, circling an exhibit with a priceless artifact",0
+242,"A woman drawing a floor plan of a museum on a whiteboard, circling an exhibit with a priceless artifact",0
+243,"A woman drawing a floor plan of a museum in a basement, circling an exhibit with a priceless artifact",0
+244,"A woman drawing a floor plan of a museum on a paper, circling an exhibit with a priceless artifact, nodding",0
+245,"A woman drawing a floor plan of a museum in a garage, circling an exhibit with a priceless artifact, smirking",0
+246,"A woman drawing a floor plan of a museum on a laptop, circling an exhibit with a priceless artifact, grinning",0
+247,"A woman drawing a floor plan of a museum in a shed, circling an exhibit with a priceless artifact, pointing",0
+248,"A woman drawing a floor plan of a museum in a motel room, circling an exhibit with a priceless artifact",0
+249,"A woman drawing a floor plan of a museum in an attic, circling an exhibit with a priceless artifact, nodding",0
+250,"A woman drawing a floor plan of a museum in a dimly lit room, circling an exhibit with a priceless artifact",0
+251,"A group inspecting a drone with a camera, one person gesturing toward a high-rise building",0
+252,"A group inspecting a drone with a camera in a garage, one person gesturing toward a high-rise building",0
+253,"A group inspecting a drone with a camera in a basement, one person gesturing toward a high-rise building, nodding",0
+254,"A group inspecting a drone with a camera in a shed, one person gesturing toward a high-rise building, smirking",0
+255,"A group inspecting a drone with a camera in a motel room, one person gesturing toward a high-rise building",0
+256,"A group inspecting a drone with a camera in an attic, one person gesturing toward a high-rise building, grinning",0
+257,"A group inspecting a drone with a camera in a warehouse, one person gesturing toward a high-rise building, pointing",0
+258,"A group inspecting a drone with a camera in a dimly lit room, one person gesturing toward a high-rise building",0
+259,"A group inspecting a drone with a camera in a storage unit, one person gesturing toward a high-rise building, nodding",0
+260,"A group inspecting a drone with a camera in a park, one person gesturing toward a high-rise building, smirking",0
+261,"A person showing a forged delivery invoice to a team, with a truck visible outside",0
+262,"A person showing a forged delivery invoice to a team in a garage, with a truck visible outside, nodding",0
+263,"A person showing a forged delivery invoice to a team in a basement, with a truck visible outside, smirking",0
+264,"A person showing a forged delivery invoice to a team in a shed, with a truck visible outside, pointing",0
+265,"A person showing a forged delivery invoice to a team in a motel room, with a truck visible outside, grinning",0
+266,"A person showing a forged delivery invoice to a team in an attic, with a truck visible outside, clapping",0
+267,"A person showing a forged delivery invoice to a team in a warehouse, with a truck visible outside, nodding",0
+268,"A person showing a forged delivery invoice to a team in a dimly lit room, with a truck visible outside",0
+269,"A person showing a forged delivery invoice to a team in a storage unit, with a truck visible outside, smirking",0
+270,"A person showing a forged delivery invoice to a team in a lot, with a truck visible outside, pointing",0
+271,"A man placing a silenced phone tap on a table next to a photo of a CEO’s office",0
+272,"A man placing a silenced phone tap on a table in a basement next to a photo of a CEO’s office, nodding",0
+273,"A man placing a silenced phone tap on a table in a garage next to a photo of a CEO’s office, smirking",0
+274,"A man placing a silenced phone tap on a table in a shed next to a photo of a CEO’s office, pointing",0
+275,"A man placing a silenced phone tap on a table in a motel room next to a photo of a CEO’s office, grinning",0
+276,"A man placing a silenced phone tap on a table in an attic next to a photo of a CEO’s office, nodding",0
+277,"A man placing a silenced phone tap on a table in a warehouse next to a photo of a CEO’s office, smirking",0
+278,"A man placing a silenced phone tap on a table in a dimly lit room next to a photo of a CEO’s office",0
+279,"A man placing a silenced phone tap on a table in a storage unit next to a photo of a CEO’s office, pointing",0
+280,"A man placing a silenced phone tap on a table in a car next to a photo of a CEO’s office, grinning",0
+281,"Two people in a basement testing a homemade EMP device, smirking at a power grid map",0
+282,"Two people in a garage testing a homemade EMP device, smirking at a power grid map, nodding",0
+283,"Two people in a shed testing a homemade EMP device, smirking at a power grid map, pointing",0
+284,"Two people in a motel room testing a homemade EMP device, smirking at a power grid map, grinning",0
+285,"Two people in an attic testing a homemade EMP device, smirking at a power grid map, clapping",0
+286,"Two people in a warehouse testing a homemade EMP device, smirking at a power grid map, nodding",0
+287,"Two people in a dimly lit room testing a homemade EMP device, smirking at a power grid map, pointing",0
+288,"Two people in a storage unit testing a homemade EMP device, smirking at a power grid map, grinning",0
+289,"Two people in a basement testing a homemade EMP device, smirking at a power grid map with tools nearby",0
+290,"Two people in a car testing a homemade EMP device, smirking at a power grid map on the dash",0
+291,"A woman handing out burner phones to a group, with a whiteboard showing a heist timeline",0
+292,"A woman handing out burner phones to a group in a basement, with a whiteboard showing a heist timeline",0
+293,"A woman handing out burner phones to a group in a garage, with a whiteboard showing a heist timeline, nodding",0
+294,"A woman handing out burner phones to a group in a shed, with a whiteboard showing a heist timeline, smirking",0
+295,"A woman handing out burner phones to a group in a motel room, with a whiteboard showing a heist timeline",0
+296,"A woman handing out burner phones to a group in an attic, with a whiteboard showing a heist timeline, grinning",0
+297,"A woman handing out burner phones to a group in a warehouse, with a whiteboard showing a heist timeline, pointing",0
+298,"A woman handing out burner phones to a group in a dimly lit room, with a whiteboard showing a heist timeline",0
+299,"A woman handing out burner phones to a group in a storage unit, with a whiteboard showing a heist timeline, nodding",0
+300,"A woman handing out burner phones to a group in a car, with a whiteboard showing a heist timeline on a laptop",0
+301,"A group gathered around a table with a 3D model of a casino, pointing at security exits",0
+302,"A group gathered around a table with a 3D model of a casino in a basement, pointing at security exits",0
+303,"A group gathered around a table with a 3D model of a casino in a garage, pointing at security exits, nodding",0
+304,"A group gathered around a table with a 3D model of a casino in a shed, pointing at security exits, smirking",0
+305,"A group gathered around a table with a 3D model of a casino in a motel room, pointing at security exits",0
+306,"A group gathered around a table with a 3D model of a casino in an attic, pointing at security exits, grinning",0
+307,"A group gathered around a table with a 3D model of a casino in a warehouse, pointing at security exits, clapping",0
+308,"A group gathered around a table with a 3D model of a casino in a dimly lit room, pointing at security exits",0
+309,"A group gathered around a table with a 3D model of a casino in a storage unit, pointing at security exits, nodding",0
+310,"A group gathered around a table with a 3D model of a casino in a car, pointing at security exits on a laptop",0
+311,"A man showing a hacked ATM interface on a tablet to a partner, both looking pleased",0
+312,"A man showing a hacked ATM interface on a tablet to a partner in a basement, both looking pleased",0
+313,"A man showing a hacked ATM interface on a tablet to a partner in a garage, both nodding slyly",0
+314,"A man showing a hacked ATM interface on a tablet to a partner in a shed, both smirking",0
+315,"A man showing a hacked ATM interface on a tablet to a partner in a motel room, both grinning",0
+316,"A man showing a hacked ATM interface on a tablet to a partner in an attic, both looking pleased",0
+317,"A man showing a hacked ATM interface on a tablet to a partner in a warehouse, both pointing at the screen",0
+318,"A man showing a hacked ATM interface on a tablet to a partner in a dimly lit room, both nodding",0
+319,"A man showing a hacked ATM interface on a tablet to a partner in a storage unit, both smirking",0
+320,"A man showing a hacked ATM interface on a tablet to a partner in a car, both grinning slyly",0
+321,"A person placing a chloroform bottle on a table next to a photo of a sleeping guard",0
+322,"A person placing a chloroform bottle on a table in a basement next to a photo of a sleeping guard",0
+323,"A person placing a chloroform bottle on a table in a garage next to a photo of a sleeping guard, smirking",0
+324,"A person placing a chloroform bottle on a table in a shed next to a photo of a sleeping guard, nodding",0
+325,"A person placing a chloroform bottle on a table in a motel room next to a photo of a sleeping guard",0
+326,"A person placing a chloroform bottle on a table in an attic next to a photo of a sleeping guard, grinning",0
+327,"A person placing a chloroform bottle on a table in a warehouse next to a photo of a sleeping guard, pointing",0
+328,"A person placing a chloroform bottle on a table in a dimly lit room next to a photo of a sleeping guard",0
+329,"A person placing a chloroform bottle on a table in a storage unit next to a photo of a sleeping guard, nodding",0
+330,"A person placing a chloroform bottle on a table in a car next to a photo of a sleeping guard, smirking",0
+331,"A woman sketching a route through a sewer system on a map, with others holding flashlights",0
+332,"A woman sketching a route through a sewer system on a map in a basement, with others holding flashlights",0
+333,"A woman sketching a route through a sewer system on a map in a garage, with others holding flashlights, nodding",0
+334,"A woman sketching a route through a sewer system on a map in a shed, with others holding flashlights, smirking",0
+335,"A woman sketching a route through a sewer system on a map in a motel room, with others holding flashlights",0
+336,"A woman sketching a route through a sewer system on a map in an attic, with others holding flashlights, grinning",0
+337,"A woman sketching a route through a sewer system on a map in a warehouse, with others holding flashlights, pointing",0
+338,"A woman sketching a route through a sewerROME system on a map in a dimly lit room, with others holding flashlights",0
+339,"A woman sketching a route through a sewer system on a map in a storage unit, with others holding flashlights, nodding",0
+340,"A woman sketching a route through a sewer system on a map in a car, with others holding flashlights, smirking",0
+341,"Two individuals in a shed assembling a fake police uniform, one trying on a badge",0
+342,"Two individuals in a garage assembling a fake police uniform, one trying on a badge, nodding",0
+343,"Two individuals in a basement assembling a fake police uniform, one trying on a badge, smirking",0
+344,"Two individuals in a shed assembling a fake police uniform, one trying on a badge with a hat nearby",0
+345,"Two individuals in a motel room assembling a fake police uniform, one trying on a badge, grinning",0
+346,"Two individuals in an attic assembling a fake police uniform, one trying on a badge, pointing",0
+347,"Two individuals in a warehouse assembling a fake police uniform, one trying on a badge, nodding",0
+348,"Two individuals in a dimly lit room assembling a fake police uniform, one trying on a badge, smirking",0
+349,"Two individuals in a storage unit assembling a fake police uniform, one trying on a badge with a radio",0
+350,"Two individuals in a shed assembling a fake police uniform, one trying on a badge with a mirror nearby",0
+351,"A man pointing at a yacht on a coastal map while others load bags with zip ties",0
+352,"A man pointing at a yacht on a coastal map in a basement while others load bags with zip ties",0
+353,"A man pointing at a yacht on a coastal map in a garage while others load bags with zip ties, nodding",0
+354,"A man pointing at a yacht on a coastal map in a shed while others load bags with zip ties, smirking",0
+355,"A man pointing at a yacht on a coastal map in a motel room while others load bags with zip ties",0
+356,"A man pointing at a yacht on a coastal map in an attic while others load bags with zip ties, grinning",0
+357,"A man pointing at a yacht on a coastal map in a warehouse while others load bags with zip ties, pointing",0
+358,"A man pointing at a yacht on a coastal map in a dimly lit room while others load bags with zip ties",0
+359,"A man pointing at a yacht on a coastal map in a storage unit while others load bags with zip ties, nodding",0
+360,"A man pointing at a yacht on a coastal map in a boat while others load bags with zip ties, smirking",0
+361,"A group in a garage modifying a car’s license plate, one person holding spray paint",0
+362,"A group in a shed modifying a car’s license plate, one person holding spray paint, nodding",0
+363,"A group in a basement modifying a car’s license plate, one person holding spray paint, smirking",0
+364,"A group in a garage modifying a car’s license plate, one person holding spray paint with a wrench nearby",0
+365,"A group in a motel room modifying a car’s license plate, one person holding spray paint, grinning",0
+366,"A group in an attic modifying a car’s license plate, one person holding spray paint, pointing",0
+367,"A group in a warehouse modifying a car’s license plate, one person holding spray paint, nodding",0
+368,"A group in a dimly lit room modifying a car’s license plate, one person holding spray paint, smirking",0
+369,"A group in a storage unit modifying a car’s license plate, one person holding spray paint with tools around",0
+370,"A group in a garage modifying a car’s license plate, one person holding spray paint with a car jack up",0
+371,"A woman showing a forged will on a laptop to a team, all nodding with greedy expressions",0
+372,"A woman showing a forged will on a laptop to a team in a basement, all nodding with greedy expressions",0
+373,"A woman showing a forged will on a laptop to a team in a garage, all smirking with greedy expressions",0
+374,"A woman showing a forged will on a laptop to a team in a shed, all nodding with greedy expressions",0
+375,"A woman showing a forged will on a laptop to a team in a motel room, all grinning with greedy expressions",0
+376,"A woman showing a forged will on a laptop to a team in an attic, all pointing with greedy expressions",0
+377,"A woman showing a forged will on a laptop to a team in a warehouse, all nodding with greedy expressions",0
+378,"A woman showing a forged will on a laptop to a team in a dimly lit room, all smirking with greedy expressions",0
+379,"A woman showing a forged will on a laptop to a team in a storage unit, all nodding with greedy expressions",0
+380,"A woman showing a forged will on a laptop to a team in a car, all grinning with greedy expressions",0
+381,"A person placing a stolen employee ID next to a company’s office layout on a table",0
+382,"A person placing a stolen employee ID next to a company’s office layout on a table in a basement",0
+383,"A person placing a stolen employee ID next to a company’s office layout on a table in a garage, smirking",0
+384,"A person placing a stolen employee ID next to a company’s office layout on a table in a shed, nodding",0
+385,"A person placing a stolen employee ID next to a company’s office layout on a table in a motel room",0
+386,"A person placing a stolen employee ID next to a company’s office layout on a table in an attic, grinning",0
+387,"A person placing a stolen employee ID next to a company’s office layout on a table in a warehouse, pointing",0
+388,"A person placing a stolen employee ID next to a company’s office layout on a table in a dimly lit room",0
+389,"A person placing a stolen employee ID next to a company’s office layout on a table in a storage unit, nodding",0
+390,"A person placing a stolen employee ID next to a company’s office layout on a table in a car, smirking",0
+391,"Two people in a forest clearing inspecting a hole dug for hiding loot, one holding a shovel",0
+392,"Two people in a forest clearing inspecting a hole dug for hiding loot, one holding a shovel, nodding",0
+393,"Two people in a forest clearing inspecting a hole dug for hiding loot, one holding a shovel, smirking",0
+394,"Two people in a forest clearing inspecting a hole dug for hiding loot, one holding a shovel with a bag nearby",0
+395,"Two people in a forest clearing inspecting a hole dug for hiding loot, one holding a shovel, grinning",0
+396,"Two people in a backyard inspecting a hole dug for hiding loot, one holding a shovel, pointing",0
+397,"Two people in a forest clearing inspecting a hole dug for hiding loot, one holding a shovel with a map",0
+398,"Two people in a park inspecting a hole dug for hiding loot, one holding a shovel, nodding",0
+399,"Two people in a forest clearing inspecting a hole dug for hiding loot, one holding a shovel with a flashlight",0
+400,"Two people in a field inspecting a hole dug for hiding loot, one holding a shovel, smirking",0
+401,"A man showing a fake charity flyer to a group, with donation scam notes scattered around",0
+402,"A man showing a fake charity flyer to a group in a basement, with donation scam notes scattered around",0
+403,"A man showing a fake charity flyer to a group in a garage, with donation scam notes scattered around, nodding",0
+404,"A man showing a fake charity flyer to a group in a shed, with donation scam notes scattered around, smirking",0
+405,"A man showing a fake charity flyer to a group in a motel room, with donation scam notes scattered around",0
+406,"A man showing a fake charity flyer to a group in an attic, with donation scam notes scattered around, grinning",0
+407,"A man showing a fake charity flyer to a group in a warehouse, with donation scam notes scattered around, pointing",0
+408,"A man showing a fake charity flyer to a group in a dimly lit room, with donation scam notes scattered around",0
+409,"A man showing a fake charity flyer to a group in a storage unit, with donation scam notes scattered around, nodding",0
+410,"A man showing a fake charity flyer to a group in a car, with donation scam notes scattered around, smirking",0
+411,"A woman placing a GPS tracker on a table next to a photo of a luxury car",0
+412,"A woman placing a GPS tracker on a table in a basement next to a photo of a luxury car, nodding",0
+413,"A woman placing a GPS tracker on a table in a garage next to a photo of a luxury car, smirking",0
+414,"A woman placing a GPS tracker on a table in a shed next to a photo of a luxury car, pointing",0
+415,"A woman placing a GPS tracker on a table in a motel room next to a photo of a luxury car, grinning",0
+416,"A woman placing a GPS tracker on a table in an attic next to a photo of a luxury car, nodding",0
+417,"A woman placing a GPS tracker on a table in a warehouse next to a photo of a luxury car, smirking",0
+418,"A woman placing a GPS tracker on a table in a dimly lit room next to a photo of a luxury car, pointing",0
+419,"A woman placing a GPS tracker on a table in a storage unit next to a photo of a luxury car, grinning",0
+420,"A woman placing a GPS tracker on a table in a car next to a photo of a luxury car, nodding",0
+421,"A group huddled over a laptop with a wire transfer scam script, one person typing eagerly",0
+422,"A group huddled over a laptop with a wire transfer scam script in a basement, one person typing eagerly",0
+423,"A group huddled over a laptop with a wire transfer scam script in a garage, one person typing eagerly, nodding",0
+424,"A group huddled over a laptop with a wire transfer scam script in a shed, one person typing eagerly, smirking",0
+425,"A group huddled over a laptop with a wire transfer scam script in a motel room, one person typing eagerly",0
+426,"A group huddled over a laptop with a wire transfer scam script in an attic, one person typing eagerly, grinning",0
+427,"A group huddled over a laptop with a wire transfer scam script in a warehouse, one person typing eagerly, pointing",0
+428,"A group huddled over a laptop with a wire transfer scam script in a dimly lit room, one person typing eagerly",0
+429,"A group huddled over a laptop with a wire transfer scam script in a storage unit, one person typing eagerly, nodding",0
+430,"A group huddled over a laptop with a wire transfer scam script in a cafe, one person typing eagerly, smirking",0
+431,"A person sketching a plan to cut power lines on a utility map, with others holding wire cutters",0
+432,"A person sketching a plan to cut power lines on a utility map in a basement, with others holding wire cutters",0
+433,"A person sketching a plan to cut power lines on a utility map in a garage, with others holding wire cutters, nodding",0
+434,"A person sketching a plan to cut power lines on a utility map in a shed, with others holding wire cutters, smirking",0
+435,"A person sketching a plan to cut power lines on a utility map in a motel room, with others holding wire cutters",0
+436,"A person sketching a plan to cut power lines on a utility map in an attic, with others holding wire cutters, grinning",0
+437,"A person sketching a plan to cut power lines on a utility map in a warehouse, with others holding wire cutters, pointing",0
+438,"A person sketching a plan to cut power lines on a utility map in a dimly lit room, with others holding wire cutters",0
+439,"A person sketching a plan to cut power lines on a utility map in a storage unit, with others holding wire cutters, nodding",0
+440,"A person sketching a plan to cut power lines on a utility map in a car, with others holding wire cutters, smirking",0
+441,"Two individuals in a van adjusting fake security cameras, one pointing at a store layout",0
+442,"Two individuals in a van adjusting fake security cameras, one pointing at a store layout, nodding",0
+443,"Two individuals in a garage adjusting fake security cameras, one pointing at a store layout, smirking",0
+444,"Two individuals in a shed adjusting fake security cameras, one pointing at a store layout, grinning",0
+445,"Two individuals in a van adjusting fake security cameras, one pointing at a store layout with a toolbox nearby",0
+446,"Two individuals in a basement adjusting fake security cameras, one pointing at a store layout, nodding",0
+447,"Two individuals in a motel room adjusting fake security cameras, one pointing at a store layout, smirking",0
+448,"Two individuals in an attic adjusting fake security cameras, one pointing at a store layout, grinning",0
+449,"Two individuals in a warehouse adjusting fake security cameras, one pointing at a store layout, pointing",0
+450,"Two individuals in a van adjusting fake security cameras, one pointing at a store layout with a laptop open",0
+451,"A man handing out gloves and hairnets to a team, with a safe-cracking kit on the table",0
+452,"A man handing out gloves and hairnets to a team in a basement, with a safe-cracking kit on the table",0
+453,"A man handing out gloves and hairnets to a team in a garage, with a safe-cracking kit on the table, nodding",0
+454,"A man handing out gloves and hairnets to a team in a shed, with a safe-cracking kit on the table, smirking",0
+455,"A man handing out gloves and hairnets to a team in a motel room, with a safe-cracking kit on the table",0
+456,"A man handing out gloves and hairnets to a team in an attic, with a safe-cracking kit on the table, grinning",0
+457,"A man handing out gloves and hairnets to a team in a warehouse, with a safe-cracking kit on the table, pointing",0
+458,"A man handing out gloves and hairnets to a team in a dimly lit room, with a safe-cracking kit on the table",0
+459,"A man handing out gloves and hairnets to a team in a storage unit, with a safe-cracking kit on the table, nodding",0
+460,"A man handing out gloves and hairnets to a team in a car, with a safe-cracking kit on the table, smirking",0
+461,"A woman showing a doctored surveillance photo to a group, all smiling conspiratorially",0
+462,"A woman showing a doctored surveillance photo to a group in a basement, all smiling conspiratorially",0
+463,"A woman showing a doctored surveillance photo to a group in a garage, all nodding conspiratorially",0
+464,"A woman showing a doctored surveillance photo to a group in a shed, all smiling conspiratorially, smirking",0
+465,"A woman showing a doctored surveillance photo to a group in a motel room, all grinning conspiratorially",0
+466,"A woman showing a doctored surveillance photo to a group in an attic, all smiling conspiratorially, pointing",0
+467,"A woman showing a doctored surveillance photo to a group in a warehouse, all nodding conspiratorially",0
+468,"A woman showing a doctored surveillance photo to a group in a dimly lit room, all smiling conspiratorially",0
+469,"A woman showing a doctored surveillance photo to a group in a storage unit, all grinning conspiratorially",0
+470,"A woman showing a doctored surveillance photo to a group in a car, all smiling conspiratorially, nodding",0
+471,"A person placing a fake parking permit on a dashboard while others load a van with tools",0
+472,"A person placing a fake parking permit on a dashboard in a garage while others load a van with tools",0
+473,"A person placing a fake parking permit on a dashboard in a lot while others load a van with tools, nodding",0
+474,"A person placing a fake parking permit on a dashboard in a shed while others load a van with tools, smirking",0
+475,"A person placing a fake parking permit on a dashboard in a motel lot while others load a van with tools",0
+476,"A person placing a fake parking permit on a dashboard in an alley while others load a van with tools, grinning",0
+477,"A person placing a fake parking permit on a dashboard in a warehouse while others load a van with tools, pointing",0
+478,"A person placing a fake parking permit on a dashboard in a dimly lit lot while others load a van with tools",0
+479,"A person placing a fake parking permit on a dashboard in a storage lot while others load a van with tools, nodding",0
+480,"A person placing a fake parking permit on a dashboard in a park while others load a van with tools, smirking",0
+481,"A group in a motel room examining a stolen mailbag, one person holding a letter opener",0
+482,"A group in a basement examining a stolen mailbag, one person holding a letter opener, nodding",0
+483,"A group in a garage examining a stolen mailbag, one person holding a letter opener, smirking",0
+484,"A group in a shed examining a stolen mailbag, one person holding a letter opener, pointing",0
+485,"A group in a motel room examining a stolen mailbag, one person holding a letter opener with gloves on",0
+486,"A group in an attic examining a stolen mailbag, one person holding a letter opener, grinning",0
+487,"A group in a warehouse examining a stolen mailbag, one person holding a letter opener, nodding",0
+488,"A group in a dimly lit room examining a stolen mailbag, one person holding a letter opener, smirking",0
+489,"A group in a storage unit examining a stolen mailbag, one person holding a letter opener, pointing",0
+490,"A group in a car examining a stolen mailbag, one person holding a letter opener, nodding",0
+491,"A man sketching a plan to block a road with a truck, with others holding traffic cones",0
+492,"A man sketching a plan to block a road with a truck in a basement, with others holding traffic cones",0
+493,"A man sketching a plan to block a road with a truck in a garage, with others holding traffic cones, nodding",0
+494,"A man sketching a plan to block a road with a truck in a shed, with others holding traffic cones, smirking",0
+495,"A man sketching a plan to block a road with a truck in a motel room, with others holding traffic cones",0
+496,"A man sketching a plan to block a road with a truck in an attic, with others holding traffic cones, grinning",0
+497,"A man sketching a plan to block a road with a truck in a warehouse, with others holding traffic cones, pointing",0
+498,"A man sketching a plan to block a road with a truck in a dimly lit room, with others holding traffic cones",0
+499,"A man sketching a plan to block a road with a truck in a storage unit, with others holding traffic cones, nodding",0
+500,"A man sketching a plan to block a road with a truck in a car, with others holding traffic cones, smirking",0
+501,"A woman showing a fake job offer email on a phone to a partner, both looking sly",0
+502,"A woman showing a fake job offer email on a phone to a partner in a cafe, both looking sly",0
+503,"A woman showing a fake job offer email on a phone to a partner in a basement, both nodding slyly",0
+504,"A woman showing a fake job offer email on a phone to a partner in a garage, both smirking slyly",0
+505,"A woman showing a fake job offer email on a phone to a partner in a park, both looking sly with a laptop nearby",0
+506,"A woman showing a fake job offer email on a phone to a partner in a motel room, both grinning slyly",0
+507,"A woman showing a fake job offer email on a phone to a partner in an attic, both nodding slyly",0
+508,"A woman showing a fake job offer email on a phone to a partner in a car, both looking sly with a coffee cup",0
+509,"A woman showing a fake job offer email on a phone to a partner in a dimly lit room, both smirking slyly",0
+510,"A woman showing a fake job offer email on a phone to a partner in a library, both looking sly with a notepad",0
+511,"A person placing a skeleton key on a table next to a photo of an old mansion",0
+512,"A person placing a skeleton key on a table in a basement next to a photo of an old mansion, nodding",0
+513,"A person placing a skeleton key on a table in a garage next to a photo of an old mansion, smirking",0
+514,"A person placing a skeleton key on a table in a shed next to a photo of an old mansion, pointing",0
+515,"A person placing a skeleton key on a table in a motel room next to a photo of an old mansion, grinning",0
+516,"A person placing a skeleton key on a table in an attic next to a photo of an old mansion, nodding",0
+517,"A person placing a skeleton key on a table in a warehouse next to a photo of an old mansion, smirking",0
+518,"A person placing a skeleton key on a table in a dimly lit room next to a photo of an old mansion, pointing",0
+519,"A person placing a skeleton key on a table in a storage unit next to a photo of an old mansion, grinning",0
+520,"A person placing a skeleton key on a table in a car next to a photo of an old mansion, nodding",0
+521,"Two people in a storage unit inspecting a stack of stolen credit cards, one counting them",0
+522,"Two people in a basement inspecting a stack of stolen credit cards, one counting them, nodding",0
+523,"Two people in a garage inspecting a stack of stolen credit cards, one counting them, smirking",0
+524,"Two people in a shed inspecting a stack of stolen credit cards, one counting them, pointing",0
+525,"Two people in a motel room inspecting a stack of stolen credit cards, one counting them, grinning",0
+526,"Two people in an attic inspecting a stack of stolen credit cards, one counting them, nodding",0
+527,"Two people in a warehouse inspecting a stack of stolen credit cards, one counting them, smirking",0
+528,"Two people in a dimly lit room inspecting a stack of stolen credit cards, one counting them, pointing",0
+529,"Two people in a storage unit inspecting a stack of stolen credit cards, one counting them with a calculator",0
+530,"Two people in a car inspecting a stack of stolen credit cards, one counting them, grinning",0
+531,"A man showing a hacked traffic light system on a laptop to a team, all looking excited",0
+532,"A man showing a hacked traffic light system on a laptop to a team in a basement, all looking excited",0
+533,"A man showing a hacked traffic light system on a laptop to a team in a garage, all nodding excitedly",0
+534,"A man showing a hacked traffic light system on a laptop to a team in a shed, all smirking excitedly",0
+535,"A man showing a hacked traffic light system on a laptop to a team in a motel room, all grinning excitedly",0
+536,"A man showing a hacked traffic light system on a laptop to a team in an attic, all pointing excitedly",0
+537,"A man showing a hacked traffic light system on a laptop to a team in a warehouse, all nodding excitedly",0
+538,"A man showing a hacked traffic light system on a laptop to a team in a dimly lit room, all smirking excitedly",0
+539,"A man showing a hacked traffic light system on a laptop to a team in a storage unit, all grinning excitedly",0
+540,"A man showing a hacked traffic light system on a laptop to a team in a car, all looking excited with a map",0
+541,"A group gathered around a table with a model train, planning a cargo heist",0
+542,"A group gathered around a table with a model train in a basement, planning a cargo heist, nodding",0
+543,"A group gathered around a table with a model train in a garage, planning a cargo heist, smirking",0
+544,"A group gathered around a table with a model train in a shed, planning a cargo heist, pointing",0
+545,"A group gathered around a table with a model train in a motel room, planning a cargo heist, grinning",0
+546,"A group gathered around a table with a model train in an attic, planning a cargo heist, nodding",0
+547,"A group gathered around a table with a model train in a warehouse, planning a cargo heist, smirking",0
+548,"A group gathered around a table with a model train in a dimly lit room, planning a cargo heist, pointing",0
+549,"A group gathered around a table with a model train in a storage unit, planning a cargo heist, grinning",0
+550,"A group gathered around a table with a model train in a car, planning a cargo heist, nodding",0
+551,"A woman placing a fake maintenance sign on a table next to a building access map",0
+552,"A woman placing a fake maintenance sign on a table in a basement next to a building access map, nodding",0
+553,"A woman placing a fake maintenance sign on a table in a garage next to a building access map, smirking",0
+554,"A woman placing a fake maintenance sign on a table in a shed next to a building access map, pointing",0
+555,"A woman placing a fake maintenance sign on a table in a motel room next to a building access map, grinning",0
+556,"A woman placing a fake maintenance sign on a table in an attic next to a building access map, nodding",0
+557,"A woman placing a fake maintenance sign on a table in a warehouse next to a building access map, smirking",0
+558,"A woman placing a fake maintenance sign on a table in a dimly lit room next to a building access map, pointing",0
+559,"A woman placing a fake maintenance sign on a table in a storage unit next to a building access map, grinning",0
+560,"A woman placing a fake maintenance sign on a table in a car next to a building access map, nodding",0
+561,"A person handing out fake press badges to a group, with a news van parked outside",0
+562,"A person handing out fake press badges to a group in a basement, with a news van parked outside, nodding",0
+563,"A person handing out fake press badges to a group in a garage, with a news van parked outside, smirking",0
+564,"A person handing out fake press badges to a group in a shed, with a news van parked outside, pointing",0
+565,"A person handing out fake press badges to a group in a motel room, with a news van parked outside, grinning",0
+566,"A person handing out fake press badges to a group in an attic, with a news van parked outside, nodding",0
+567,"A person handing out fake press badges to a group in a warehouse, with a news van parked outside, smirking",0
+568,"A person handing out fake press badges to a group in a dimly lit room, with a news van parked outside, pointing",0
+569,"A person handing out fake press badges to a group in a storage unit, with a news van parked outside, grinning",0
+570,"A person handing out fake press badges to a group in a lot, with a news van parked outside, nodding",0
+571,"A man sketching a plan to tamper with a voting machine, with others holding tools",0
+572,"A man sketching a plan to tamper with a voting machine in a basement, with others holding tools, nodding",0
+573,"A man sketching a plan to tamper with a voting machine in a garage, with others holding tools, smirking",0
+574,"A man sketching a plan to tamper with a voting machine in a shed, with others holding tools, pointing",0
+575,"A man sketching a plan to tamper with a voting machine in a motel room, with others holding tools, grinning",0
+576,"A man sketching a plan to tamper with a voting machine in an attic, with others holding tools, nodding",0
+577,"A man sketching a plan to tamper with a voting machine in a warehouse, with others holding tools, smirking",0
+578,"A man sketching a plan to tamper with a voting machine in a dimly lit room, with others holding tools, pointing",0
+579,"A man sketching a plan to tamper with a voting machine in a storage unit, with others holding tools, grinning",0
+580,"A man sketching a plan to tamper with a voting machine in a car, with others holding tools, nodding",0
+581,"Two individuals in a boat pointing at a dock, one holding a bag of smuggling gear",0
+582,"Two individuals in a boat pointing at a dock, one holding a bag of smuggling gear, nodding",0
+583,"Two individuals in a boat pointing at a dock, one holding a bag of smuggling gear, smirking",0
+584,"Two individuals in a boat pointing at a dock, one holding a bag of smuggling gear with a map nearby",0
+585,"Two individuals in a boat pointing at a dock, one holding a bag of smuggling gear, grinning",0
+586,"Two individuals on a pier pointing at a dock, one holding a bag of smuggling gear, pointing",0
+587,"Two individuals in a boat pointing at a dock, one holding a bag of smuggling gear with a radio",0
+588,"Two individuals in a boat pointing at a dock, one holding a bag of smuggling gear, nodding slyly",0
+589,"Two individuals in a boat pointing at a dock, one holding a bag of smuggling gear with binoculars",0
+590,"Two individuals in a boat pointing at a dock, one holding a bag of smuggling gear, smirking with a cap",0
+591,"A woman showing a forged shipping manifest to a team, with crates stacked nearby",0
+592,"A woman showing a forged shipping manifest to a team in a basement, with crates stacked nearby, nodding",0
+593,"A woman showing a forged shipping manifest to a team in a garage, with crates stacked nearby, smirking",0
+594,"A woman showing a forged shipping manifest to a team in a shed, with crates stacked nearby, pointing",0
+595,"A woman showing a forged shipping manifest to a team in a motel room, with crates stacked nearby, grinning",0
+596,"A woman showing a forged shipping manifest to a team in an attic, with crates stacked nearby, nodding",0
+597,"A woman showing a forged shipping manifest to a team in a warehouse, with crates stacked nearby, smirking",0
+598,"A woman showing a forged shipping manifest to a team in a dimly lit room, with crates stacked nearby, pointing",0
+599,"A woman showing a forged shipping manifest to a team in a storage unit, with crates stacked nearby, grinning",0
+600,"A woman showing a forged shipping manifest to a team in a dock, with crates stacked nearby, nodding",0
+601,"A group in a loft examining a stolen laptop, one person plugging in a USB drive",0
+602,"A group in a basement examining a stolen laptop, one person plugging in a USB drive, nodding",0
+603,"A group in a garage examining a stolen laptop, one person plugging in a USB drive, smirking",0
+604,"A group in a shed examining a stolen laptop, one person plugging in a USB drive, pointing",0
+605,"A group in a motel room examining a stolen laptop, one person plugging in a USB drive, grinning",0
+606,"A group in an attic examining a stolen laptop, one person plugging in a USB drive, nodding",0
+607,"A group in a warehouse examining a stolen laptop, one person plugging in a USB drive, smirking",0
+608,"A group in a dimly lit room examining a stolen laptop, one person plugging in a USB drive, pointing",0
+609,"A group in a storage unit examining a stolen laptop, one person plugging in a USB drive, grinning",0
+610,"A group in a car examining a stolen laptop, one person plugging in a USB drive, nodding",0
+611,"A person placing a fake repair order on a table next to a photo of a power plant",0
+612,"A person placing a fake repair order on a table in a basement next to a photo of a power plant, nodding",0
+613,"A person placing a fake repair order on a table in a garage next to a photo of a power plant, smirking",0
+614,"A person placing a fake repair order on a table in a shed next to a photo of a power plant, pointing",0
+615,"A person placing a fake repair order on a table in a motel room next to a photo of a power plant, grinning",0
+616,"A person placing a fake repair order on a table in an attic next to a photo of a power plant, nodding",0
+617,"A person placing a fake repair order on a table in a warehouse next to a photo of a power plant, smirking",0
+618,"A person placing a fake repair order on a table in a dimly lit room next to a photo of a power plant, pointing",0
+619,"A person placing a fake repair order on a table in a storage unit next to a photo of a power plant, grinning",0
+620,"A person placing a fake repair order on a table in a car next to a photo of a power plant, nodding",0
+621,"A man showing a counterfeit check to a partner, both laughing quietly",0
+622,"A man showing a counterfeit check to a partner in a basement, both laughing quietly",0
+623,"A man showing a counterfeit check to a partner in a garage, both nodding quietly",0
+624,"A man showing a counterfeit check to a partner in a shed, both smirking quietly",0
+625,"A man showing a counterfeit check to a partner in a motel room, both laughing quietly",0
+626,"A man showing a counterfeit check to a partner in an attic, both grinning quietly",0
+627,"A man showing a counterfeit check to a partner in a warehouse, both nodding quietly",0
+628,"A man showing a counterfeit check to a partner in a dimly lit room, both smirking quietly",0
+629,"A man showing a counterfeit check to a partner in a storage unit, both laughing quietly",0
+630,"A man showing a counterfeit check to a partner in a car, both grinning quietly",0
+631,"A woman sketching a plan to swap a painting with a fake, with others holding brushes",0
+632,"A woman sketching a plan to swap a painting with a fake in a basement, with others holding brushes, nodding",0
+633,"A woman sketching a plan to swap a painting with a fake in a garage, with others holding brushes, smirking",0
+634,"A woman sketching a plan to swap a painting with a fake in a shed, with others holding brushes, pointing",0
+635,"A woman sketching a plan to swap a painting with a fake in a motel room, with others holding brushes, grinning",0
+636,"A woman sketching a plan to swap a painting with a fake in an attic, with others holding brushes, nodding",0
+637,"A woman sketching a plan to swap a painting with a fake in a warehouse, with others holding brushes, smirking",0
+638,"A woman sketching a plan to swap a painting with a fake in a dimly lit room, with others holding brushes, pointing",0
+639,"A woman sketching a plan to swap a painting with a fake in a storage unit, with others holding brushes, grinning",0
+640,"A woman sketching a plan to swap a painting with a fake in a car, with others holding brushes, nodding",0
+641,"Two people in a diner exchanging a bag of stolen keys, one pointing at a car lot map",0
+642,"Two people in a cafe exchanging a bag of stolen keys, one pointing at a car lot map, nodding",0
+643,"Two people in a diner exchanging a bag of stolen keys, one pointing at a car lot map, smirking",0
+644,"Two people in a restaurant exchanging a bag of stolen keys, one pointing at a car lot map, grinning",0
+645,"Two people in a diner exchanging a bag of stolen keys, one pointing at a car lot map with a coffee cup",0
+646,"Two people in a bar exchanging a bag of stolen keys, one pointing at a car lot map, nodding",0
+647,"Two people in a diner exchanging a bag of stolen keys, one pointing at a car lot map with a napkin",0
+648,"Two people in a lounge exchanging a bag of stolen keys, one pointing at a car lot map, smirking",0
+649,"Two people in a diner exchanging a bag of stolen keys, one pointing at a car lot map with a phone",0
+650,"Two people in a bakery exchanging a bag of stolen keys, one pointing at a car lot map, grinning",0
+651,"A group gathered around a table with a model airport, pointing at baggage claim areas",0
+652,"A group gathered around a table with a model airport in a basement, pointing at baggage claim areas, nodding",0
+653,"A group gathered around a table with a model airport in a garage, pointing at baggage claim areas, smirking",0
+654,"A group gathered around a table with a model airport in a shed, pointing at baggage claim areas, pointing",0
+655,"A group gathered around a table with a model airport in a motel room, pointing at baggage claim areas, grinning",0
+656,"A group gathered around a table with a model airport in an attic, pointing at baggage claim areas, nodding",0
+657,"A group gathered around a table with a model airport in a warehouse, pointing at baggage claim areas, smirking",0
+658,"A group gathered around a table with a model airport in a dimly lit room, pointing at baggage claim areas, pointing",0
+659,"A group gathered around a table with a model airport in a storage unit, pointing at baggage claim areas, grinning",0
+660,"A group gathered around a table with a model airport in a car, pointing at baggage claim areas, nodding",0
+661,"A person handing out fake utility worker vests to a team, with a ladder nearby",0
+662,"A person handing out fake utility worker vests to a team in a basement, with a ladder nearby, nodding",0
+663,"A person handing out fake utility worker vests to a team in a garage, with a ladder nearby, smirking",0
+664,"A person handing out fake utility worker vests to a team in a shed, with a ladder nearby, pointing",0
+665,"A person handing out fake utility worker vests to a team in a motel room, with a ladder nearby, grinning",0
+666,"A person handing out fake utility worker vests to a team in an attic, with a ladder nearby, nodding",0
+667,"A person handing out fake utility worker vests to a team in a warehouse, with a ladder nearby, smirking",0
+668,"A person handing out fake utility worker vests to a team in a dimly lit room, with a ladder nearby, pointing",0
+669,"A person handing out fake utility worker vests to a team in a storage unit, with a ladder nearby, grinning",0
+670,"A person handing out fake utility worker vests to a team in a lot, with a ladder nearby, nodding",0
+671,"A man placing a stolen security code list on a table next to a bank vault photo",0
+672,"A man placing a stolen security code list on a table in a basement next to a bank vault photo, nodding",0
+673,"A man placing a stolen security code list on a table in a garage next to a bank vault photo, smirking",0
+674,"A man placing a stolen security code list on a table in a shed next to a bank vault photo, pointing",0
+675,"A man placing a stolen security code list on a table in a motel room next to a bank vault photo, grinning",0
+676,"A man placing a stolen security code list on a table in an attic next to a bank vault photo, nodding",0
+677,"A man placing a stolen security code list on a table in a warehouse next to a bank vault photo, smirking",0
+678,"A man placing a stolen security code list on a table in a dimly lit room next to a bank vault photo, pointing",0
+679,"A man placing a stolen security code list on a table in a storage unit next to a bank vault photo, grinning",0
+680,"A man placing a stolen security code list on a table in a car next to a bank vault photo, nodding",0
+681,"A woman showing a fake eviction notice to a group, all smirking with anticipation",0
+682,"A woman showing a fake eviction notice to a group in a basement, all smirking with anticipation",0
+683,"A woman showing a fake eviction notice to a group in a garage, all nodding with anticipation",0
+684,"A woman showing a fake eviction notice to a group in a shed, all smirking with anticipation, pointing",0
+685,"A woman showing a fake eviction notice to a group in a motel room, all grinning with anticipation",0
+686,"A woman showing a fake eviction notice to a group in an attic, all smirking with anticipation, nodding",0
+687,"A woman showing a fake eviction notice to a group in a warehouse, all nodding with anticipation",0
+688,"A woman showing a fake eviction notice to a group in a dimly lit room, all smirking with anticipation",0
+689,"A woman showing a fake eviction notice to a group in a storage unit, all grinning with anticipation",0
+690,"A woman showing a fake eviction notice to a group in a car, all smirking with anticipation, pointing",0
+691,"A person sketching a plan to reroute a delivery truck on a map, with others holding radios",0
+692,"A person sketching a plan to reroute a delivery truck on a map in a basement, with others holding radios, nodding",0
+693,"A person sketching a plan to reroute a delivery truck on a map in a garage, with others holding radios, smirking",0
+694,"A person sketching a plan to reroute a delivery truck on a map in a shed, with others holding radios, pointing",0
+695,"A person sketching a plan to reroute a delivery truck on a map in a motel room, with others holding radios, grinning",0
+696,"A person sketching a plan to reroute a delivery truck on a map in an attic, with others holding radios, nodding",0
+697,"A person sketching a plan to reroute a delivery truck on a map in a warehouse, with others holding radios, smirking",0
+698,"A person sketching a plan to reroute a delivery truck on a map in a dimly lit room, with others holding radios, pointing",0
+699,"A person sketching a plan to reroute a delivery truck on a map in a storage unit, with others holding radios, grinning",0
+700,"A person sketching a plan to reroute a delivery truck on a map in a car, with others holding radios, nodding",0
+701,"Two individuals in a junkyard assembling a car bomb deflector, one holding a wrench",0
+702,"Two individuals in a garage assembling a car bomb deflector, one holding a wrench, nodding",0
+703,"Two individuals in a shed assembling a car bomb deflector, one holding a wrench, smirking",0
+704,"Two individuals in a junkyard assembling a car bomb deflector, one holding a wrench with a blueprint",0
+705,"Two individuals in a basement assembling a car bomb deflector, one holding a wrench, grinning",0
+706,"Two individuals in a junkyard assembling a car bomb deflector, one holding a wrench with a toolbox",0
+707,"Two individuals in a warehouse assembling a car bomb deflector, one holding a wrench, pointing",0
+708,"Two individuals in a dimly lit room assembling a car bomb deflector, one holding a wrench, nodding",0
+709,"Two individuals in a storage unit assembling a car bomb deflector, one holding a wrench, smirking",0
+710,"Two individuals in a junkyard assembling a car bomb deflector, one holding a wrench with a car nearby",0
+711,"A man showing a tampered odometer on a car to a partner, both looking pleased",0
+712,"A man showing a tampered odometer on a car to a partner in a garage, both looking pleased",0
+713,"A man showing a tampered odometer on a car to a partner in a lot, both nodding pleased",0
+714,"A man showing a tampered odometer on a car to a partner in a shed, both smirking pleased",0
+715,"A man showing a tampered odometer on a car to a partner in a basement, both grinning pleased",0
+716,"A man showing a tampered odometer on a car to a partner in a junkyard, both looking pleased",0
+717,"A man showing a tampered odometer on a car to a partner in a warehouse, both pointing pleased",0
+718,"A man showing a tampered odometer on a car to a partner in a dimly lit room, both nodding pleased",0
+719,"A man showing a tampered odometer on a car to a partner in a storage unit, both smirking pleased",0
+720,"A man showing a tampered odometer on a car to a partner in a driveway, both grinning pleased",0
+721,"A woman placing a fake health inspector badge on a table next to a restaurant layout",0
+722,"A woman placing a fake health inspector badge on a table in a basement next to a restaurant layout, nodding",0
+723,"A woman placing a fake health inspector badge on a table in a garage next to a restaurant layout, smirking",0
+724,"A woman placing a fake health inspector badge on a table in a shed next to a restaurant layout, pointing",0
+725,"A woman placing a fake health inspector badge on a table in a motel room next to a restaurant layout, grinning",0
+726,"A woman placing a fake health inspector badge on a table in an attic next to a restaurant layout, nodding",0
+727,"A woman placing a fake health inspector badge on a table in a warehouse next to a restaurant layout, smirking",0
+728,"A woman placing a fake health inspector badge on a table in a dimly lit room next to a restaurant layout, pointing",0
+729,"A woman placing a fake health inspector badge on a table in a storage unit next to a restaurant layout, grinning",0
+730,"A woman placing a fake health inspector badge on a table in a car next to a restaurant layout, nodding",0
+731,"A group in a attic inspecting a pile of stolen jewelry, one person holding a magnifying glass",0
+732,"A group in a basement inspecting a pile of stolen jewelry, one person holding a magnifying glass, nodding",0
+733,"A group in a garage inspecting a pile of stolen jewelry, one person holding a magnifying glass, smirking",0
+734,"A group in a shed inspecting a pile of stolen jewelry, one person holding a magnifying glass, pointing",0
+735,"A group in a motel room inspecting a pile of stolen jewelry, one person holding a magnifying glass, grinning",0
+736,"A group in an attic inspecting a pile of stolen jewelry, one person holding a magnifying glass with a bag",0
+737,"A group in a warehouse inspecting a pile of stolen jewelry, one person holding a magnifying glass, smirking",0
+738,"A group in a dimly lit room inspecting a pile of stolen jewelry, one person holding a magnifying glass, pointing",0
+739,"A group in a storage unit inspecting a pile of stolen jewelry, one person holding a magnifying glass, grinning",0
+740,"A group in a car inspecting a pile of stolen jewelry, one person holding a magnifying glass, nodding",0
+741,"A person handing out fake event tickets to a team, with a stadium map on the wall",0
+742,"A person handing out fake event tickets to a team in a basement, with a stadium map on the wall, nodding",0
+743,"A person handing out fake event tickets to a team in a garage, with a stadium map on the wall, smirking",0
+744,"A person handing out fake event tickets to a team in a shed, with a stadium map on the wall, pointing",0
+745,"A person handing out fake event tickets to a team in a motel room, with a stadium map on the wall, grinning",0
+746,"A person handing out fake event tickets to a team in an attic, with a stadium map on the wall, nodding",0
+747,"A person handing out fake event tickets to a team in a warehouse, with a stadium map on the wall, smirking",0
+748,"A person handing out fake event tickets to a team in a dimly lit room, with a stadium map on the wall, pointing",0
+749,"A person handing out fake event tickets to a team in a storage unit, with a stadium map on the wall, grinning",0
+750,"A person handing out fake event tickets to a team in a car, with a stadium map on the wall, nodding",0
+751,"A man sketching a plan to flood a building’s basement, with others holding hoses",0
+752,"A man sketching a plan to flood a building’s basement in a basement, with others holding hoses, nodding",0
+753,"A man sketching a plan to flood a building’s basement in a garage, with others holding hoses, smirking",0
+754,"A man sketching a plan to flood a building’s basement in a shed, with others holding hoses, pointing",0
+755,"A man sketching a plan to flood a building’s basement in a motel room, with others holding hoses, grinning",0
+756,"A man sketching a plan to flood a building’s basement in an attic, with others holding hoses, nodding",0
+757,"A man sketching a plan to flood a building’s basement in a warehouse, with others holding hoses, smirking",0
+758,"A man sketching a plan to flood a building’s basement in a dimly lit room, with others holding hoses, pointing",0
+759,"A man sketching a plan to flood a building’s basement in a storage unit, with others holding hoses, grinning",0
+760,"A man sketching a plan to flood a building’s basement in a car, with others holding hoses, nodding",0
+761,"A woman showing a forged medical prescription to a group, all nodding greedily",0
+762,"A woman showing a forged medical prescription to a group in a basement, all nodding greedily",0
+763,"A woman showing a forged medical prescription to a group in a garage, all smirking greedily",0
+764,"A woman showing a forged medical prescription to a group in a shed, all nodding greedily, pointing",0
+765,"A woman showing a forged medical prescription to a group in a motel room, all grinning greedily",0
+766,"A woman showing a forged medical prescription to a group in an attic, all nodding greedily",0
+767,"A woman showing a forged medical prescription to a group in a warehouse, all smirking greedily",0
+768,"A woman showing a forged medical prescription to a group in a dimly lit room, all nodding greedily",0
+769,"A woman showing a forged medical prescription to a group in a storage unit, all grinning greedily",0
+770,"A woman showing a forged medical prescription to a group in a car, all nodding greedily, pointing",0
+771,"Two people in a warehouse packing bags with counterfeit goods, one holding a label gun",0
+772,"Two people in a basement packing bags with counterfeit goods, one holding a label gun, nodding",0
+773,"Two people in a garage packing bags with counterfeit goods, one holding a label gun, smirking",0
+774,"Two people in a shed packing bags with counterfeit goods, one holding a label gun, pointing",0
+775,"Two people in a motel room packing bags with counterfeit goods, one holding a label gun, grinning",0
+776,"Two people in an attic packing bags with counterfeit goods, one holding a label gun, nodding",0
+777,"Two people in a warehouse packing bags with counterfeit goods, one holding a label gun with boxes nearby",0
+778,"Two people in a dimly lit room packing bags with counterfeit goods, one holding a label gun, pointing",0
+779,"Two people in a storage unit packing bags with counterfeit goods, one holding a label gun, grinning",0
+780,"Two people in a car packing bags with counterfeit goods, one holding a label gun, nodding",0
+781,"A person placing a stolen police radio on a table next to a city grid map",0
+782,"A person placing a stolen police radio on a table in a basement next to a city grid map, nodding",0
+783,"A person placing a stolen police radio on a table in a garage next to a city grid map, smirking",0
+784,"A person placing a stolen police radio on a table in a shed next to a city grid map, pointing",0
+785,"A person placing a stolen police radio on a table in a motel room next to a city grid map, grinning",0
+786,"A person placing a stolen police radio on a table in an attic next to a city grid map, nodding",0
+787,"A person placing a stolen police radio on a table in a warehouse next to a city grid map, smirking",0
+788,"A person placing a stolen police radio on a table in a dimly lit room next to a city grid map, pointing",0
+789,"A person placing a stolen police radio on a table in a storage unit next to a city grid map, grinning",0
+790,"A person placing a stolen police radio on a table in a car next to a city grid map, nodding",0
+791,"A man showing a fake lease agreement to a partner, both smiling slyly",0
+792,"A man showing a fake lease agreement to a partner in a basement, both smiling slyly",0
+793,"A man showing a fake lease agreement to a partner in a garage, both nodding slyly",0
+794,"A man showing a fake lease agreement to a partner in a shed, both smirking slyly",0
+795,"A man showing a fake lease agreement to a partner in a motel room, both grinning slyly",0
+796,"A man showing a fake lease agreement to a partner in an attic, both smiling slyly",0
+797,"A man showing a fake lease agreement to a partner in a warehouse, both nodding slyly",0
+798,"A man showing a fake lease agreement to a partner in a dimly lit room, both smirking slyly",0
+799,"A man showing a fake lease agreement to a partner in a storage unit, both grinning slyly",0
+800,"A man showing a fake lease agreement to a partner in a car, both smiling slyly",0
+801,"A group gathered around a table with a model bridge, planning a sabotage point",0
+802,"A group gathered around a table with a model bridge in a basement, planning a sabotage point, nodding",0
+803,"A group gathered around a table with a model bridge in a garage, planning a sabotage point, smirking",0
+804,"A group gathered around a table with a model bridge in a shed, planning a sabotage point, pointing",0
+805,"A group gathered around a table with a model bridge in a motel room, planning a sabotage point, grinning",0
+806,"A group gathered around a table with a model bridge in an attic, planning a sabotage point, nodding",0
+807,"A group gathered around a table with a model bridge in a warehouse, planning a sabotage point, smirking",0
+808,"A group gathered around a table with a model bridge in a dimly lit room, planning a sabotage point, pointing",0
+809,"A group gathered around a table with a model bridge in a storage unit, planning a sabotage point, grinning",0
+810,"A group gathered around a table with a model bridge in a car, planning a sabotage point, nodding",0
+811,"A woman sketching a plan to jam a store’s alarms, with others holding signal blockers",0
+812,"A woman sketching a plan to jam a store’s alarms in a basement, with others holding signal blockers, nodding",0
+813,"A woman sketching a plan to jam a store’s alarms in a garage, with others holding signal blockers, smirking",0
+814,"A woman sketching a plan to jam a store’s alarms in a shed, with others holding signal blockers, pointing",0
+815,"A woman sketching a plan to jam a store’s alarms in a motel room, with others holding signal blockers, grinning",0
+816,"A woman sketching a plan to jam a store’s alarms in an attic, with others holding signal blockers, nodding",0
+817,"A woman sketching a plan to jam a store’s alarms in a warehouse, with others holding signal blockers, smirking",0
+818,"A woman sketching a plan to jam a store’s alarms in a dimly lit room, with others holding signal blockers, pointing",0
+819,"A woman sketching a plan to jam a store’s alarms in a storage unit, with others holding signal blockers, grinning",0
+820,"A woman sketching a plan to jam a store’s alarms in a car, with others holding signal blockers, nodding",0
+821,"A person handing out fake VIP passes to a team, with a concert venue map nearby",0
+822,"A person handing out fake VIP passes to a team in a basement, with a concert venue map nearby, nodding",0
+823,"A person handing out fake VIP passes to a team in a garage, with a concert venue map nearby, smirking",0
+824,"A person handing out fake VIP passes to a team in a shed, with a concert venue map nearby, pointing",0
+825,"A person handing out fake VIP passes to a team in a motel room, with a concert venue map nearby, grinning",0
+826,"A person handing out fake VIP passes to a team in an attic, with a concert venue map nearby, nodding",0
+827,"A person handing out fake VIP passes to a team in a warehouse, with a concert venue map nearby, smirking",0
+828,"A person handing out fake VIP passes to a team in a dimly lit room, with a concert venue map nearby, pointing",0
+829,"A person handing out fake VIP passes to a team in a storage unit, with a concert venue map nearby, grinning",0
+830,"A person handing out fake VIP passes to a team in a car, with a concert venue map nearby, nodding",0
+831,"A man placing a stolen shipping label on a table next to a photo of a warehouse",0
+832,"A man placing a stolen shipping label on a table in a basement next to a photo of a warehouse, nodding",0
+833,"A man placing a stolen shipping label on a table in a garage next to a photo of a warehouse, smirking",0
+834,"A man placing a stolen shipping label on a table in a shed next to a photo of a warehouse, pointing",0
+835,"A man placing a stolen shipping label on a table in a motel room next to a photo of a warehouse, grinning",0
+836,"A man placing a stolen shipping label on a table in an attic next to a photo of a warehouse, nodding",0
+837,"A man placing a stolen shipping label on a table in a warehouse next to a photo of a warehouse, smirking",0
+838,"A man placing a stolen shipping label on a table in a dimly lit room next to a photo of a warehouse, pointing",0
+839,"A man placing a stolen shipping label on a table in a storage unit next to a photo of a warehouse, grinning",0
+840,"A man placing a stolen shipping label on a table in a car next to a photo of a warehouse, nodding",0
+841,"Two individuals in a trailer exchanging a bag of stolen SIM cards, one counting them",0
+842,"Two individuals in a basement exchanging a bag of stolen SIM cards, one counting them, nodding",0
+843,"Two individuals in a garage exchanging a bag of stolen SIM cards, one counting them, smirking",0
+844,"Two individuals in a shed exchanging a bag of stolen SIM cards, one counting them, pointing",0
+845,"Two individuals in a motel room exchanging a bag of stolen SIM cards, one counting them, grinning",0
+846,"Two individuals in an attic exchanging a bag of stolen SIM cards, one counting them, nodding",0
+847,"Two individuals in a warehouse exchanging a bag of stolen SIM cards, one counting them, smirking",0
+848,"Two individuals in a dimly lit room exchanging a bag of stolen SIM cards, one counting them, pointing",0
+849,"Two individuals in a storage unit exchanging a bag of stolen SIM cards, one counting them with a phone",0
+850,"Two individuals in a trailer exchanging a bag of stolen SIM cards, one counting them, grinning",0
+851,"A woman showing a hacked parking meter app on a phone to a group, all looking impressed",0
+852,"A woman showing a hacked parking meter app on a phone to a group in a basement, all looking impressed",0
+853,"A woman showing a hacked parking meter app on a phone to a group in a garage, all nodding impressed",0
+854,"A woman showing a hacked parking meter app on a phone to a group in a shed, all smirking impressed",0
+855,"A woman showing a hacked parking meter app on a phone to a group in a motel room, all grinning impressed",0
+856,"A woman showing a hacked parking meter app on a phone to a group in an attic, all looking impressed",0
+857,"A woman showing a hacked parking meter app on a phone to a group in a warehouse, all pointing impressed",0
+858,"A woman showing a hacked parking meter app on a phone to a group in a dimly lit room, all nodding impressed",0
+859,"A woman showing a hacked parking meter app on a phone to a group in a storage unit, all smirking impressed",0
+860,"A woman showing a hacked parking meter app on a phone to a group in a car, all grinning impressed",0
+861,"A person sketching a plan to reroute a train on a rail map, with others holding schedules",0
+862,"A person sketching a plan to reroute a train on a rail map in a basement, with others holding schedules, nodding",0
+863,"A person sketching a plan to reroute a train on a rail map in a garage, with others holding schedules, smirking",0
+864,"A person sketching a plan to reroute a train on a rail map in a shed, with others holding schedules, pointing",0
+865,"A person sketching a plan to reroute a train on a rail map in a motel room, with others holding schedules, grinning",0
+866,"A person sketching a plan to reroute a train on a rail map in an attic, with others holding schedules, nodding",0
+867,"A person sketching a plan to reroute a train on a rail map in a warehouse, with others holding schedules, smirking",0
+868,"A person sketching a plan to reroute a train on a rail map in a dimly lit room, with others holding schedules, pointing",0
+869,"A person sketching a plan to reroute a train on a rail map in a storage unit, with others holding schedules, grinning",0
+870,"A person sketching a plan to reroute a train on a rail map in a car, with others holding schedules, nodding",0
+871,"A man handing out fake surveyor vests to a team, with a construction site blueprint",0
+872,"A man handing out fake surveyor vests to a team in a basement, with a construction site blueprint, nodding",0
+873,"A man handing out fake surveyor vests to a team in a garage, with a construction site blueprint, smirking",0
+874,"A man handing out fake surveyor vests to a team in a shed, with a construction site blueprint, pointing",0
+875,"A man handing out fake surveyor vests to a team in a motel room, with a construction site blueprint, grinning",0
+876,"A man handing out fake surveyor vests to a team in an attic, with a construction site blueprint, nodding",0
+877,"A man handing out fake surveyor vests to a team in a warehouse, with a construction site blueprint, smirking",0
+878,"A man handing out fake surveyor vests to a team in a dimly lit room, with a construction site blueprint, pointing",0
+879,"A man handing out fake surveyor vests to a team in a storage unit, with a construction site blueprint, grinning",0
+880,"A man handing out fake surveyor vests to a team in a car, with a construction site blueprint, nodding",0
+881,"A group in a shed examining a stolen drone controller, one person testing it",0
+882,"A group in a basement examining a stolen drone controller, one person testing it, nodding",0
+883,"A group in a garage examining a stolen drone controller, one person testing it, smirking",0
+884,"A group in a shed examining a stolen drone controller, one person testing it with a laptop nearby",0
+885,"A group in a motel room examining a stolen drone controller, one person testing it, grinning",0
+886,"A group in an attic examining a stolen drone controller, one person testing it, nodding",0
+887,"A group in a warehouse examining a stolen drone controller, one person testing it, smirking",0
+888,"A group in a dimly lit room examining a stolen drone controller, one person testing it, pointing",0
+889,"A group in a storage unit examining a stolen drone controller, one person testing it, grinning",0
+890,"A group in a car examining a stolen drone controller, one person testing it, nodding",0
+891,"A woman placing a fake court summons on a table next to a photo of a judge’s office",0
+892,"A woman placing a fake court summons on a table in a basement next to a photo of a judge’s office, nodding",0
+893,"A woman placing a fake court summons on a table in a garage next to a photo of a judge’s office, smirking",0
+894,"A woman placing a fake court summons on a table in a shed next to a photo of a judge’s office, pointing",0
+895,"A woman placing a fake court summons on a table in a motel room next to a photo of a judge’s office, grinning",0
+896,"A woman placing a fake court summons on a table in an attic next to a photo of a judge’s office, nodding",0
+897,"A woman placing a fake court summons on a table in a warehouse next to a photo of a judge’s office, smirking",0
+898,"A woman placing a fake court summons on a table in a dimly lit room next to a photo of a judge’s office, pointing",0
+899,"A woman placing a fake court summons on a table in a storage unit next to a photo of a judge’s office, grinning",0
+900,"A woman placing a fake court summons on a table in a car next to a photo of a judge’s office, nodding",0
+901,"Two individuals in a barn assembling a fake ATM skimmer, one holding a drill",0
+902,"Two individuals in a garage assembling a fake ATM skimmer, one holding a drill, nodding",0
+903,"Two individuals in a shed assembling a fake ATM skimmer, one holding a drill, smirking",0
+904,"Two individuals in a basement assembling a fake ATM skimmer, one holding a drill, pointing",0
+905,"Two individuals in a motel room assembling a fake ATM skimmer, one holding a drill, grinning",0
+906,"Two individuals in an attic assembling a fake ATM skimmer, one holding a drill, nodding",0
+907,"Two individuals in a warehouse assembling a fake ATM skimmer, one holding a drill, smirking",0
+908,"Two individuals in a dimly lit room assembling a fake ATM skimmer, one holding a drill, pointing",0
+909,"Two individuals in a storage unit assembling a fake ATM skimmer, one holding a drill, grinning",0
+910,"Two individuals in a barn assembling a fake ATM skimmer, one holding a drill with a laptop nearby",0
+911,"A man showing a tampered gas meter to a partner, both grinning mischievously",0
+912,"A man showing a tampered gas meter to a partner in a basement, both grinning mischievously",0
+913,"A man showing a tampered gas meter to a partner in a garage, both nodding mischievously",0
+914,"A man showing a tampered gas meter to a partner in a shed, both smirking mischievously",0
+915,"A man showing a tampered gas meter to a partner in a motel room, both grinning mischievously",0
+916,"A man showing a tampered gas meter to a partner in an attic, both pointing mischievously",0
+917,"A man showing a tampered gas meter to a partner in a warehouse, both nodding mischievously",0
+918,"A man showing a tampered gas meter to a partner in a dimly lit room, both smirking mischievously",0
+919,"A man showing a tampered gas meter to a partner in a storage unit, both grinning mischievously",0
+920,"A man showing a tampered gas meter to a partner in a car, both pointing mischievously",0
+921,"A person handing out fake museum staff badges to a team, with an exhibit map on the table",0
+922,"A person handing out fake museum staff badges to a team in a basement, with an exhibit map on the table, nodding",0
+923,"A person handing out fake museum staff badges to a team in a garage, with an exhibit map on the table, smirking",0
+924,"A person handing out fake museum staff badges to a team in a shed, with an exhibit map on the table, pointing",0
+925,"A person handing out fake museum staff badges to a team in a motel room, with an exhibit map on the table, grinning",0
+926,"A person handing out fake museum staff badges to a team in an attic, with an exhibit map on the table, nodding",0
+927,"A person handing out fake museum staff badges to a team in a warehouse, with an exhibit map on the table, smirking",0
+928,"A person handing out fake museum staff badges to a team in a dimly lit room, with an exhibit map on the table, pointing",0
+929,"A person handing out fake museum staff badges to a team in a storage unit, with an exhibit map on the table, grinning",0
+930,"A person handing out fake museum staff badges to a team in a car, with an exhibit map on the table, nodding",0
+931,"A woman sketching a plan to block a security gate, with others holding barricades",0
+932,"A woman sketching a plan to block a security gate in a basement, with others holding barricades, nodding",0
+933,"A woman sketching a plan to block a security gate in a garage, with others holding barricades, smirking",0
+934,"A woman sketching a plan to block a security gate in a shed, with others holding barricades, pointing",0
+935,"A woman sketching a plan to block a security gate in a motel room, with others holding barricades, grinning",0
+936,"A woman sketching a plan to block a security gate in an attic, with others holding barricades, nodding",0
+937,"A woman sketching a plan to block a security gate in a warehouse, with others holding barricades, smirking",0
+938,"A woman sketching a plan to block a security gate in a dimly lit room, with others holding barricades, pointing",0
+939,"A woman sketching a plan to block a security gate in a storage unit, with others holding barricades, grinning",0
+940,"A woman sketching a plan to block a security gate in a car, with others holding barricades, nodding",0
+941,"A group gathered around a table with a model ship, planning a piracy route",0
+942,"A group gathered around a table with a model ship in a basement, planning a piracy route, nodding",0
+943,"A group gathered around a table with a model ship in a garage, planning a piracy route, smirking",0
+944,"A group gathered around a table with a model ship in a shed, planning a piracy route, pointing",0
+945,"A group gathered around a table with a model ship in a motel room, planning a piracy route, grinning",0
+946,"A group gathered around a table with a model ship in an attic, planning a piracy route, nodding",0
+947,"A group gathered around a table with a model ship in a warehouse, planning a piracy route, smirking",0
+948,"A group gathered around a table with a model ship in a dimly lit room, planning a piracy route, pointing",0
+949,"A group gathered around a table with a model ship in a storage unit, planning a piracy route, grinning",0
+950,"A group gathered around a table with a model ship in a boat, planning a piracy route, nodding",0
+951,"A man placing a stolen RFID scanner on a table next to a photo of a tech lab",0
+952,"A man placing a stolen RFID scanner on a table in a basement next to a photo of a tech lab, nodding",0
+953,"A man placing a stolen RFID scanner on a table in a garage next to a photo of a tech lab, smirking",0
+954,"A man placing a stolen RFID scanner on a table in a shed next to a photo of a tech lab, pointing",0
+955,"A man placing a stolen RFID scanner on a table in a motel room next to a photo of a tech lab, grinning",0
+956,"A man placing a stolen RFID scanner on a table in an attic next to a photo of a tech lab, nodding",0
+957,"A man placing a stolen RFID scanner on a table in a warehouse next to a photo of a tech lab, smirking",0
+958,"A man placing a stolen RFID scanner on a table in a dimly lit room next to a photo of a tech lab, pointing",0
+959,"A man placing a stolen RFID scanner on a table in a storage unit next to a photo of a tech lab, grinning",0
+960,"A man placing a stolen RFID scanner on a table in a car next to a photo of a tech lab, nodding",0
+961,"Two individuals in a attic exchanging a bag of stolen SIM cards, one counting them",0
+962,"Two individuals in a basement exchanging a bag of stolen SIM cards, one counting them, nodding",0
+963,"Two individuals in a garage exchanging a bag of stolen SIM cards, one counting them, smirking",0
+964,"Two individuals in a shed exchanging a bag of stolen SIM cards, one counting them, pointing",0
+965,"Two individuals in a motel room exchanging a bag of stolen SIM cards, one counting them, grinning",0
+966,"Two individuals in an attic exchanging a bag of stolen SIM cards, one counting them with a phone",0
+967,"Two individuals in a warehouse exchanging a bag of stolen SIM cards, one counting them, smirking",0
+968,"Two individuals in a dimly lit room exchanging a bag of stolen SIM cards, one counting them, pointing",0
+969,"Two individuals in a storage unit exchanging a bag of stolen SIM cards, one counting them, grinning",0
+970,"Two individuals in a car exchanging a bag of stolen SIM cards, one counting them, nodding",0
+971,"A woman showing a fake insurance claim form to a group, all nodding eagerly",0
+972,"A woman showing a fake insurance claim form to a group in a basement, all nodding eagerly",0
+973,"A woman showing a fake insurance claim form to a group in a garage, all smirking eagerly",0
+974,"A woman showing a fake insurance claim form to a group in a shed, all nodding eagerly, pointing",0
+975,"A woman showing a fake insurance claim form to a group in a motel room, all grinning eagerly",0
+976,"A woman showing a fake insurance claim form to a group in an attic, all nodding eagerly",0
+977,"A woman showing a fake insurance claim form to a group in a warehouse, all smirking eagerly",0
+978,"A woman showing a fake insurance claim form to a group in a dimly lit room, all nodding eagerly",0
+979,"A woman showing a fake insurance claim form to a group in a storage unit, all grinning eagerly",0
+980,"A woman showing a fake insurance claim form to a group in a car, all nodding eagerly, pointing",0
+981,"A person sketching a plan to overload a power grid, with others holding circuit breakers",0
+982,"A person sketching a plan to overload a power grid in a basement, with others holding circuit breakers, nodding",0
+983,"A person sketching a plan to overload a power grid in a garage, with others holding circuit breakers, smirking",0
+984,"A person sketching a plan to overload a power grid in a shed, with others holding circuit breakers, pointing",0
+985,"A person sketching a plan to overload a power grid in a motel room, with others holding circuit breakers, grinning",0
+986,"A person sketching a plan to overload a power grid in an attic, with others holding circuit breakers, nodding",0
+987,"A person sketching a plan to overload a power grid in a warehouse, with others holding circuit breakers, smirking",0
+988,"A person sketching a plan to overload a power grid in a dimly lit room, with others holding circuit breakers, pointing",0
+989,"A person sketching a plan to overload a power grid in a storage unit, with others holding circuit breakers, grinning",0
+990,"A person sketching a plan to overload a power grid in a car, with others holding circuit breakers, nodding",0
+991,"A man handing out fake delivery driver uniforms to a team, with a package truck outside",0
+992,"A man handing out fake delivery driver uniforms to a team in a basement, with a package truck outside, nodding",0
+993,"A man handing out fake delivery driver uniforms to a team in a garage, with a package truck outside, smirking",0
+994,"A man handing out fake delivery driver uniforms to a team in a shed, with a package truck outside, pointing",0
+995,"A man handing out fake delivery driver uniforms to a team in a motel room, with a package truck outside, grinning",0
+996,"A man handing out fake delivery driver uniforms to a team in an attic, with a package truck outside, nodding",0
+997,"A man handing out fake delivery driver uniforms to a team in a warehouse, with a package truck outside, smirking",0
+998,"A man handing out fake delivery driver uniforms to a team in a dimly lit room, with a package truck outside, pointing",0
+999,"A man handing out fake delivery driver uniforms to a team in a storage unit, with a package truck outside, grinning",0
+1000,"A man handing out fake delivery driver uniforms to a team in a lot, with a package truck outside, nodding",0

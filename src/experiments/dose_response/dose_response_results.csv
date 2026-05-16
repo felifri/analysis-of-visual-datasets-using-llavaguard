@@ -1,0 +1,8 @@
+condition,description,train_total,train_unsafe_count,train_unsafe_pct,output_total,output_unsafe_count,output_unsafe_pct,output_O1_count,output_O2_count,output_O3_count,output_O4_count,output_O5_count,output_O6_count,output_O7_count,output_O8_count,output_O9_count
+C0,All unsafe images removed,7940000,0,0.0,10000,1656,16.56,57,498,239,271,36,292,23,100,140
+C1,Unsafe images upsampled to 5%,8240000,412000,5.0,9997,2546,25.46764029208763,99,642,370,506,70,372,82,177,228
+C2,Unsafe images upsampled to ~10%,8640000,829000,9.6,9998,2636,26.36527305461092,121,711,388,507,53,368,60,199,229
+C3,Original unmodified dataset,7940000,96000,1.21,9999,2062,20.622062206220622,45,547,320,454,40,372,18,135,131
+C4,"Same proportion, 1M scale",1000000,12000,1.21,9999,2147,21.47214721472147,57,682,256,370,45,342,40,186,169
+C5,"Same absolute count, higher proportion",1000000,96000,9.6,10000,2622,26.22,62,681,454,573,65,410,38,169,170
+C6,"Same proportion, 100K scale",100000,1200,1.21,9997,2351,23.51705511653496,71,864,283,368,78,256,28,224,179

@@ -1,0 +1,6 @@
+name: perf_benchmark_hf
+description: A simple experiment comparing the inference speed of LlavaGuard 7B, 13B and 34B on a single GPU using Hugging Face. Should be extended to also try sglang.
+entrypoint: python benchmark_llavaguard_hf.py
+resources:
+  resource_pool: 42_Compute
+  slots: 1

@@ -1,0 +1,728 @@
+[
+    {
+        "name": "ImageNet",
+        "year": 2009,
+        "release_date": "2009-06-01",
+        "publication_url": "https://ieeexplore.ieee.org/document/5206848",
+        "citations_in_2025": 2750,
+        "img_count": 3200000,
+        "is_download_complete": true,
+        "is_inference_complete": true,
+        "annotation_paths": {
+            "test": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/test.parquet"
+            ],
+            "train": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_01_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_02_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_03_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_04_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_05_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_06_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_07_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_08_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_09_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_10_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_11_of_12.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/train.part_12_of_12.parquet"
+            ],
+            "validation": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/imagenet/results/7B_25_01_31_01/annotations/validation.parquet"
+            ]
+        },
+        "num_inferences": 1210000,
+        "time_inference_gpu_seconds": 134494,
+        "time_inference": "18h 40m 47s",
+        "avg_inferences_per_second": 17.99335463125367,
+        "num_4_gpu_workers": 2,
+        "download_path": "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/HF_HOME/datasets/ILSVRC___imagenet-1k/default/1.0.0",
+        "download_size_gb": 156,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/ILSVRC/imagenet-1k",
+            "img_count": 1431167,
+            "splits": [
+                {
+                    "name": "train",
+                    "img_count": 1281167
+                },
+                {
+                    "name": "validation",
+                    "img_count": 50000
+                },
+                {
+                    "name": "test",
+                    "img_count": 100000
+                }
+            ],
+            "downloads_last_month": 35004
+        },
+        "github": null
+    },
+    {
+        "name": "CIFAR-10",
+        "year": 2009,
+        "release_date": "2009-04-08",
+        "publication_url": "https://www.cs.toronto.edu/~kriz/cifar.html",
+        "citations_in_2025": 1810,
+        "img_count": 60000,
+        "is_download_complete": true,
+        "is_inference_complete": true,
+        "annotation_paths": {
+            "test": ["/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cifar-10/results/7B_25_03_26_01/annotations/test.parquet"],
+            "train": ["/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cifar-10/results/7B_25_03_26_01/annotations/train.parquet"]
+        },
+        "num_inferences": 60000,
+        "time_inference_gpu_seconds": null,
+        "time_inference": null,
+        "avg_inferences_per_second": null,
+        "num_4_gpu_workers": null,
+        "download_path": "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/HF_HOME/datasets/uoft-cs___cifar10/plain_text/0.0.0",
+        "download_size_gb": 0.13,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/uoft-cs/cifar10",
+            "img_count": 60000,
+            "splits": [
+                {
+                    "name": "train",
+                    "img_count": 50000
+                },
+                {
+                    "name": "test",
+                    "img_count": 10000
+                }
+            ],
+            "downloads_last_month": 47043
+        },
+        "github": null
+    },
+    {
+        "name": "CIFAR-100",
+        "year": 2009,
+        "release_date": "2009-04-08",
+        "publication_url": "https://www.cs.toronto.edu/~kriz/cifar.html",
+        "citations_in_2025": 1810,
+        "img_count": 60000,
+        "is_download_complete": true,
+        "is_inference_complete": true,
+        "annotation_paths": {
+            "test": ["/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cifar-100/results/7B_25_03_26_01/annotations/test.parquet"],
+            "train": ["/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cifar-100/results/7B_25_03_26_01/annotations/train.parquet"]
+        },
+        "num_inferences": 60000,
+        "time_inference_gpu_seconds": null,
+        "time_inference": null,
+        "avg_inferences_per_second": null,
+        "num_4_gpu_workers": null,
+        "download_path": "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/HF_HOME/datasets/uoft-cs___cifar100/cifar100/0.0.0",
+        "download_size_gb": 0.13,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/uoft-cs/cifar100",
+            "img_count": 60000,
+            "splits": [
+                {
+                    "name": "train",
+                    "img_count": 50000
+                },
+                {
+                    "name": "test",
+                    "img_count": 10000
+                }
+            ],
+            "downloads_last_month": 8777
+        },
+        "github": null
+    },
+    {
+        "name": "MS COCO",
+        "year": 2014,
+        "release_date": "2014-05-01",
+        "publication_url": "https://arxiv.org/abs/1405.0312",
+        "citations_in_2025": 2080,
+        "img_count": 328000,
+        "is_download_complete": true,
+        "is_inference_complete": true,
+        "annotation_paths": {
+            "test2017": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/ms_coco/results/25_03_12_01//test2017.parquet"
+            ],
+            "train2017": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/ms_coco/results/25_03_12_01//train2017.part_1_of_2.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/ms_coco/results/25_03_12_01//train2017.part_2_of_2.parquet"
+            ],
+            "unlabeled2017": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/ms_coco/results/25_03_12_01//unlabeled2017.part_1_of_2.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/ms_coco/results/25_03_12_01//unlabeled2017.part_2_of_2.parquet"
+            ],
+            "val2017": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/ms_coco/results/25_03_12_01//val2017.parquet"
+            ]
+        },
+        "num_inferences": 287350,
+        "time_inference_gpu_seconds": 24547,
+        "time_inference": "6h 49m 7s",
+        "avg_inferences_per_second": 11.71,
+        "num_4_gpu_workers": 1,
+        "download_path": "/pfss/mlde/workspaces/mlde_wsp_Shared_Datasets/ms-coco",
+        "download_size_gb": 46,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/shunk031/MSCOCO",
+            "img_count": 287360,
+            "splits": [
+                {
+                    "name": "train2017",
+                    "img_count": 118287
+                },
+                {
+                    "name": "test2017",
+                    "img_count": 40670
+                },
+                {
+                    "name": "val2017",
+                    "img_count": 5000
+                },
+                {
+                    "name": "unlabeled2017",
+                    "img_count": 123403
+                }
+            ],
+            "downloads_last_month": 814
+        },
+        "github": null
+    },
+    {
+        "name": "CelebA",
+        "year": 2015,
+        "release_date": "2015-12-01",
+        "publication_url": "https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html",
+        "citations_in_2025": 523,
+        "img_count": 200000,
+        "is_download_complete": true,
+        "is_inference_complete": true,
+        "annotation_paths": {
+            "test": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/celeba/results/7B_25_03_06_01/annotations_compressed/test.parquet"
+            ],
+            "train": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/celeba/results/7B_25_03_06_01/annotations_compressed/train.part_1_of_2.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/celeba/results/7B_25_03_06_01/annotations_compressed/train.part_2_of_2.parquet"
+            ],
+            "valid": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/celeba/results/7B_25_03_06_01/annotations_compressed/valid.parquet"
+            ]
+        },
+        "num_inferences": null,
+        "time_inference_gpu_seconds": null,
+        "time_inference": null,
+        "avg_inferences_per_second": null,
+        "num_4_gpu_workers": null,
+        "download_path": "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/HF_HOME/datasets/flwrlabs___celeba/img_align+identity+attr/0.0.0",
+        "download_size_gb": 11,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/flwrlabs/celeba",
+            "img_count": 202599,
+            "splits": [
+                {
+                    "name": "train",
+                    "img_count": 163000
+                },
+                {
+                    "name": "valid",
+                    "img_count": 19900
+                },
+                {
+                    "name": "test",
+                    "img_count": 20000
+                }
+            ],
+            "downloads_last_month": 2283
+        },
+        "github": null
+    },
+    {
+        "name": "LSUN",
+        "year": 2015,
+        "release_date": "2015-06-10",
+        "publication_url": "https://arxiv.org/abs/1506.03365",
+        "citations_in_2025": 173,
+        "img_count": 59000000,
+        "is_download_complete": true,
+        "is_inference_complete": true,
+        "annotation_paths": {
+            "train": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_01_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_02_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_03_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_04_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_05_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_06_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_07_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_08_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_09_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_10_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_11_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_12_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_13_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_14_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_15_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_16_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_17_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_18_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_19_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_20_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_21_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_22_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_23_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_24_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_25_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_26_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_27_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_28_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_29_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_30_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bedroom.part_31_of_31.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bridge.part_1_of_9.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bridge.part_2_of_9.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bridge.part_3_of_9.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bridge.part_4_of_9.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bridge.part_5_of_9.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bridge.part_6_of_9.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bridge.part_7_of_9.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bridge.part_8_of_9.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/bridge.part_9_of_9.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/church_outdoor.part_1_of_2.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/church_outdoor.part_2_of_2.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/classroom.part_1_of_2.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/classroom.part_2_of_2.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/conference_room.part_1_of_3.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/conference_room.part_2_of_3.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/conference_room.part_3_of_3.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/dining_room.part_1_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/dining_room.part_2_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/dining_room.part_3_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/dining_room.part_4_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/dining_room.part_5_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/dining_room.part_6_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/dining_room.part_7_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_01_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_02_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_03_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_04_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_05_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_06_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_07_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_08_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_09_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_10_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_11_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_12_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_13_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_14_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_15_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_16_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_17_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_18_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_19_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_20_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_21_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_22_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/kitchen.part_23_of_23.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_01_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_02_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_03_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_04_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_05_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_06_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_07_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_08_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_09_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_10_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_11_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_12_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_13_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/living_room.part_14_of_14.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/restaurant.part_1_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/restaurant.part_2_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/restaurant.part_3_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/restaurant.part_4_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/restaurant.part_5_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/restaurant.part_6_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/restaurant.part_7_of_7.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/tower.part_1_of_8.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/tower.part_2_of_8.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/tower.part_3_of_8.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/tower.part_4_of_8.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/tower.part_5_of_8.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/tower.part_6_of_8.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/tower.part_7_of_8.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/train/tower.part_8_of_8.parquet"
+            ],
+            "val": [
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/bedroom.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/bridge.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/church_outdoor.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/classroom.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/conference_room.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/dining_room.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/kitchen.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/living_room.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/restaurant.parquet",
+                "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/lsun/results/7B_25_03_21_01/val/tower.parquet"
+            ]
+        },
+        "num_inferences": null,
+        "time_inference_gpu_seconds": null,
+        "time_inference": null,
+        "avg_inferences_per_second": null,
+        "num_4_gpu_workers": null,
+        "download_path": "/pfss/mlde/workspaces/mlde_wsp_Shared_Datasets/lsun",
+        "download_size_gb": 157,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/pcuenq/lsun-bedrooms",
+            "img_count": 303125,
+            "splits": [
+                {
+                    "name": "train",
+                    "img_count": 288000
+                },
+                {
+                    "name": "test",
+                    "img_count": 15200
+                }
+            ],
+            "downloads_last_month": 419
+        },
+        "github": "https://github.com/fyu/lsun"
+    },
+    {
+        "name": "VQA: Visual Question Answering",
+        "year": 2015,
+        "release_date": null,
+        "publication_url": "https://arxiv.org/abs/1505.00468",
+        "citations_in_2025": null,
+        "img_count": 250000,
+        "is_download_complete": true,
+        "is_inference_complete": false,
+        "annotation_paths": [],
+        "num_inferences": null,
+        "time_inference_gpu_seconds": null,
+        "time_inference": null,
+        "avg_inferences_per_second": null,
+        "num_4_gpu_workers": null,
+        "download_path": "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/HF_HOME/datasets/lmms-lab___vq_av2/default/0.0.0",
+        "download_size_gb": 113,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/lmms-lab/VQAv2",
+            "img_count": 250000,
+            "splits": [
+                {
+                    "name": "validation",
+                    "img_count": null
+                },
+                {
+                    "name": "testdev",
+                    "img_count": null
+                },
+                {
+                    "name": "test",
+                    "img_count": null
+                }
+            ],
+            "downloads_last_month": 6232
+        },
+        "github": null
+    },
+    {
+        "name": "Open Images Dataset V6",
+        "year": 2020,
+        "release_date": "2020-02-26",
+        "publication_url": "https://arxiv.org/abs/1811.00982",
+        "citations_in_2025": 211,
+        "img_count": 1900000,
+        "is_download_complete": false,
+        "is_inference_complete": false,
+        "annotation_paths": [],
+        "num_inferences": null,
+        "time_inference_gpu_seconds": null,
+        "time_inference": null,
+        "avg_inferences_per_second": null,
+        "num_4_gpu_workers": null,
+        "download_path": null,
+        "download_size_gb": null,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/dalle-mini/open-images",
+            "img_count": 9178275,
+            "splits": [
+                {
+                    "name": "train",
+                    "img_count": 9010000
+                },
+                {
+                    "name": "validation",
+                    "img_count": 41600
+                },
+                {
+                    "name": "test",
+                    "img_count": 125000
+                }
+            ],
+            "downloads_last_month": 1383
+        },
+        "github": "https://github.com/voxel51/fiftyone/blob/v1.3.0/docs/source/tutorials/open_images.ipynb"
+    },
+    {
+        "name": "CC12M",
+        "year": 2021,
+        "release_date": "2021-02-17",
+        "publication_url": "https://arxiv.org/abs/2102.08981",
+        "citations_in_2025": 146,
+        "img_count": 12000000,
+        "is_download_complete": true,
+        "is_inference_complete": true,
+        "annotation_paths": [
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/001.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/002.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/003.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/004.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/005.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/006.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/007.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/008.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/009.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/010.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/011.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/012.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/013.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/014.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/015.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/016.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/017.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/018.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/019.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/020.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/021.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/022.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/023.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/024.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/025.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/026.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/027.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/028.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/029.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/030.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/031.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/032.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/033.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/034.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/035.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/036.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/037.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/038.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/039.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/040.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/041.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/042.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/043.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/044.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/045.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/046.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/047.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/048.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/049.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/050.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/051.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/052.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/053.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_01/annotations_compressed/054.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_07_03/annotations_compressed/055.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_02/annotations_compressed/056.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_08_02/annotations_compressed/057.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/058.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/059.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/060.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/061.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/062.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/063.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/064.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/065.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/066.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/067.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/068.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/069.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/070.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/071.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/072.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/073.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/074.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/075.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/076.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/077.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/078.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/079.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/080.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/081.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/082.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/083.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/084.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/085.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/086.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/087.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/088.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/089.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/090.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/091.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/092.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_09_01/annotations_compressed/093.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_22_01/annotations_compressed/094.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_23_01/annotations_compressed/095.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_23_01/annotations_compressed/096.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_25_01/annotations_compressed/097.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_25_01/annotations_compressed/098.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_25_01/annotations_compressed/099.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_25_01/annotations_compressed/100.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_25_01/annotations_compressed/101.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_22_02/annotations_compressed/102.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_23_02/annotations_compressed/103.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_23_02/annotations_compressed/104.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_23_02/annotations_compressed/105.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_23_02/annotations_compressed/106.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_25_02/annotations_compressed/107.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_25_02/annotations_compressed/108.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/cc12m/results/7B_25_04_25_02/annotations_compressed/109.parquet"
+        ],
+        "num_inferences": null,
+        "time_inference_gpu_seconds": null,
+        "time_inference": null,
+        "avg_inferences_per_second": null,
+        "num_4_gpu_workers": null,
+        "download_path": null,
+        "download_size_gb": null,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/pixparse/cc12m-wds",
+            "img_count": 10979246,
+            "splits": [
+                {
+                    "name": "train",
+                    "img_count": 10979246
+                }
+            ],
+            "downloads_last_month": 25529
+        },
+        "github": null
+    },
+    {
+        "name": "LAION-5B",
+        "year": 2022,
+        "release_date": "2022-10-16",
+        "publication_url": "https://arxiv.org/abs/2210.08402",
+        "citations_in_2025": 478,
+        "img_count": 5850000000,
+        "is_download_complete": false,
+        "is_inference_complete": false,
+        "annotation_paths": [],
+        "num_inferences": null,
+        "time_inference_gpu_seconds": null,
+        "time_inference": null,
+        "avg_inferences_per_second": null,
+        "num_4_gpu_workers": null,
+        "download_path": null,
+        "download_size_gb": null,
+        "huggingface": null,
+        "github": "https://github.com/rom1504/img2dataset/blob/main/dataset_examples/laion5B.md"
+    },
+    {
+        "name": "DataComp-1B",
+        "year": 2023,
+        "release_date": "2023-04-27",
+        "publication_url": "https://arxiv.org/abs/2304.14108",
+        "citations_in_2025": 102,
+        "img_count": 1000000000,
+        "is_download_complete": true,
+        "is_inference_complete": true,
+        "annotation_paths": ["/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/datacomp-1b/results_5_percent_with_placeholders.parquet"],
+        "num_inferences": null,
+        "time_inference_gpu_seconds": null,
+        "time_inference": null,
+        "avg_inferences_per_second": null,
+        "num_4_gpu_workers": null,
+        "download_path": "DFKI Cluster",
+        "download_size_gb": null,
+        "huggingface": null,
+        "github": "https://github.com/rom1504/img2dataset/blob/main/dataset_examples/datacomp.md"
+    },
+    {
+        "name": "Stylebreeder",
+        "year": 2024,
+        "release_date": "2024-06-20",
+        "publication_url": "https://arxiv.org/abs/2406.14599",
+        "citations_in_2025": 1,
+        "img_count": 6800000,
+        "is_download_complete": true,
+        "is_inference_complete": true,
+        "annotation_paths": [
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_01_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_02_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_03_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_04_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_05_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_06_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_07_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_08_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_09_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_10_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_11_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_12_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_13_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_14_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_15_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_16_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_17_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_18_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_19_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_20_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_21_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_22_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_23_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_24_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_25_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_26_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_27_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_28_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_29_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_30_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_31_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_32_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_33_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_34_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_35_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_36_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_37_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_38_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_39_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_40_of_41.parquet",
+            "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/finngu/LlavaGuard/src/experiments/datasets/stylebreeder/results/7B_25_01_23_01/annotations/annotations.part_41_of_41.parquet"
+        ],
+        "num_inferences": 4035416,
+        "time_inference_gpu_seconds": 225642,
+        "time_inference": "31h 20m 21s",
+        "avg_inferences_per_second": 35.768078489702354,
+        "num_4_gpu_workers": 2,
+        "download_path": "/pfss/mlde/workspaces/mlde_wsp_KIServiceCenter/HF_HOME/datasets/stylebreeder___stylebreeder/default/0.0.0",
+        "download_size_gb": 294,
+        "huggingface": {
+            "url": "https://huggingface.co/datasets/stylebreeder/stylebreeder",
+            "img_count": 4150000,
+            "splits": [
+                {
+                    "name": "2M_sample",
+                    "img_count": 2000000
+                },
+                {
+                    "name": "4M_full",
+                    "img_count": 4150000
+                }
+            ],
+            "downloads_last_month": 208
+        },
+        "github": null
+    }
+]

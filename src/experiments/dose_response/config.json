@@ -1,0 +1,138 @@
+{
+    "experiment_name": "dose_response",
+    "description": "Dose-response experiment: training data safety composition → model output safety",
+    "base_output_dir": "<your folder>",
+    "training_data": {
+        "datasets": [
+            {
+                "name": "lehduong/flux_generated",
+                "expected_size": 1700000,
+                "source": "FLUX-generated"
+            },
+            {
+                "name": "LucasFang/FLUX-Reason-6M",
+                "expected_size": 6000000,
+                "source": "FLUX-generated with reasoning"
+            },
+            {
+                "name": "brivangl/midjourney-v6-llava",
+                "expected_size": 1000000,
+                "source": "Midjourney v6 (re-captioned with Gemini 1.5)"
+            }
+        ],
+        "total_expected_size": 8700000,
+        "download_dir": "<your folder>",
+        "annotations_dir": "<your folder>",
+        "subsets_dir": "<your folder>",
+        "mds_dir": "<your folder>"
+    },
+    "conditions": {
+        "C1": {
+            "name": "0% unsafe, full scale",
+            "unsafe_fraction": 0.0,
+            "total_size": 8700000,
+            "description": "All unsafe images removed, replaced with additional safe images"
+        },
+        "C2": {
+            "name": "5% unsafe, full scale",
+            "unsafe_fraction": 0.05,
+            "total_size": 8700000,
+            "description": "5% of training data is unsafe content"
+        },
+        "C3": {
+            "name": "10% unsafe, full scale",
+            "unsafe_fraction": 0.10,
+            "total_size": 8700000,
+            "description": "10% of training data is unsafe content"
+        },
+        "C0": {
+            "name": "Original, full scale",
+            "unsafe_fraction": null,
+            "total_size": 8700000,
+            "description": "Original dataset composition, no filtering"
+        },
+        "C4": {
+            "name": "Original proportion, 1M scale",
+            "unsafe_fraction": 0.0121,
+            "total_size": 1000000,
+            "description": "Same proportion as original (~1.21%), 1M scale"
+        },
+        "C6": {
+            "name": "All unsafe, 1M scale",
+            "unsafe_fraction": null,
+            "total_size": 1000000,
+            "description": "All 96K unsafe images in 1M total (~9.6%)"
+        },
+        "C1_clip": {
+            "name": "0% unsafe, CLIP text encoder",
+            "unsafe_fraction": 0.0,
+            "total_size": 8700000,
+            "description": "Filtered dataset + CLIP ViT-L/14 text encoder (text encoder ablation)"
+        },
+        "C0_clip": {
+            "name": "Original, CLIP text encoder",
+            "unsafe_fraction": null,
+            "total_size": 8700000,
+            "description": "Original dataset + CLIP ViT-L/14 text encoder (text encoder ablation)"
+        },
+        "C1_safeclip": {
+            "name": "0% unsafe, SafeCLIP text encoder",
+            "unsafe_fraction": 0.0,
+            "total_size": 8700000,
+            "description": "Filtered dataset + SafeCLIP ViT-L/14 text encoder (text encoder ablation)"
+        },
+        "C0_safeclip": {
+            "name": "Original, SafeCLIP text encoder",
+            "unsafe_fraction": null,
+            "total_size": 8700000,
+            "description": "Original dataset + SafeCLIP ViT-L/14 text encoder (text encoder ablation)"
+        }
+    },
+    "llavaguard": {
+        "model": "AIML-TUDA/LlavaGuard-v1.2-7B-OV",
+        "dp_size": 4,
+        "port": 10001,
+        "batch_size": 1000,
+        "chunk_size": 100000
+    },
+    "training": {
+        "model": "PRX-1.2B-Small",
+        "prx_dir": "<your folder>",
+        "checkpoint_dir": "<your folder>",
+        "checkpoint_sft_dir": "<your folder>",
+        "seed": 42,
+        "phase1_steps": 100000,
+        "phase1_resolution": 512,
+        "phase1_batch_size": 1024,
+        "phase2_steps": 20000,
+        "phase2_resolution": 1024,
+        "phase2_batch_size": 512,
+        "sft_steps": 20000,
+        "sft_batch_size": 256,
+        "sft_lr": 5e-5
+    },
+    "generation": {
+        "prompt_file": "<your folder>",
+        "num_prompts": 10000,
+        "guidance_scale": 3.5,
+        "num_inference_steps": 50,
+        "resolution": 1024,
+        "seed": 42,
+        "output_dir": "<your folder>"
+    },
+    "evaluation": {
+        "output_dir": "<your folder>",
+        "existing_prx_checkpoints": {
+            "prx_base": "Photoroom/prx-1024-t2i-beta",
+            "prx_sft": null
+        }
+    },
+    "slurm": {
+        "qos": "h200_comm_shared",
+        "partition": null,
+        "nodes": 8,
+        "gpus_per_node": 8,
+        "cpus_per_node": 192,
+        "gpu_type": "H200"
+    }
+}
